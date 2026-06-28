@@ -1,0 +1,70 @@
+# cmux-pokemon-theme
+
+[hyper-pokemon](https://github.com/klaussinani/hyper-pokemon)（Hyper ターミナル用の Pokémon テーマ）を、[cmux](https://github.com/manaflow-ai/cmux) のターミナル（[Ghostty](https://ghostty.org) バックエンド）向けに移植したものです。
+
+現在は **ピカチュウ** テーマを収録しています（カラー + 全画面の背景画像）。
+
+> Port of the Hyper [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon) theme to cmux's Ghostty-based terminal.
+
+## プレビュー
+
+| hyper-pokemon | 値 | Ghostty |
+|---|---|---|
+| unibody | `#F7DE82` | `background` |
+| secondary | `#4C1803` | `foreground` / `cursor` |
+| primary | `#F6BD20` | `selection-background` |
+| tertiary | `#DE7329` | palette 0 / 2 / 8 |
+| secondHighlight | `#C7C7C7` | palette 7 |
+| highlight | `#FFFFFF` | palette 15 |
+
+カラーマッピングは hyper-pokemon の `index.js` の `decorateConfig()` をそのまま再現しています。
+
+## インストール
+
+```sh
+git clone https://github.com/yud0uhu/cmux-pokemon-theme.git
+cd cmux-pokemon-theme
+./install.sh
+```
+
+`install.sh` は以下を行います。
+
+1. `themes/Pokemon Pikachu` → `~/.config/ghostty/themes/`（Ghostty がユーザーテーマを探す場所）
+2. `backgrounds/pikachu.png` → `~/Library/Application Support/com.mitchellh.ghostty/backgrounds/`
+3. `config.ghostty` → `~/Library/Application Support/com.mitchellh.ghostty/config.ghostty`（背景画像の絶対パスを自動で書き換え。既存設定は `.bak` にバックアップ）
+
+インストール後、cmux で **コマンドパレット → `reload_config`**、または **⌘+Shift+,** で再読み込みすると即座に適用されます（再起動不要）。
+
+## 手動インストール
+
+```sh
+# テーマ
+cp "themes/Pokemon Pikachu" ~/.config/ghostty/themes/
+
+# 背景画像
+mkdir -p ~/Library/Application\ Support/com.mitchellh.ghostty/backgrounds
+cp backgrounds/pikachu.png ~/Library/Application\ Support/com.mitchellh.ghostty/backgrounds/
+```
+
+`~/Library/Application Support/com.mitchellh.ghostty/config.ghostty` に追記:
+
+```
+theme = Pokemon Pikachu
+background-image = /Users/あなたのユーザー名/Library/Application Support/com.mitchellh.ghostty/backgrounds/pikachu.png
+background-image-fit = cover
+background-image-position = center
+background-image-opacity = 0.28
+```
+
+## 調整
+
+- 背景画像が薄い → `background-image-opacity` を `0.6`〜`1.0` に上げる（hyper 本家は実質フル表示）
+- 文字が読みにくい → `background-image-opacity` を下げる
+
+## 備考
+
+hyper-pokemon の配色は元々ほぼ単色（大半が `secondary` 一色）なので、忠実に移植するとシンタックスハイライトの色分けは控えめになります。これは元テーマの仕様どおりです。
+
+## ライセンス
+
+カラー定義・背景画像は [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon)（MIT, © Klaus Sinani）に由来します。
