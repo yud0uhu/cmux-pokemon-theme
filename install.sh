@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install the Pokémon Pikachu theme for cmux (Ghostty backend).
+# Install the Pokémon themes for cmux (Ghostty backend).
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -13,18 +13,18 @@ CONFIG="$GHOSTTY_SUPPORT/config.ghostty"
 
 mkdir -p "$THEME_DIR" "$BG_DIR" "$GHOSTTY_SUPPORT"
 
-# 1. Theme colors
-cp "$REPO_DIR/themes/Pokemon Pikachu" "$THEME_DIR/Pokemon Pikachu"
+# 1. Theme colors (all themes)
+cp "$REPO_DIR/themes/"* "$THEME_DIR/"
 
-# 2. Background image
-cp "$REPO_DIR/backgrounds/pikachu.png" "$BG_DIR/pikachu.png"
+# 2. Background images (all)
+cp "$REPO_DIR/backgrounds/"* "$BG_DIR/"
 
-# 3. Config (rewrite background-image path for this machine)
+# 3. Config (rewrite the placeholder background path for this machine)
 if [ -f "$CONFIG" ]; then
   cp "$CONFIG" "$CONFIG.bak.$(date +%s)"
   echo "Backed up existing config to $CONFIG.bak.*"
 fi
-sed "s|/CHANGE/ME/backgrounds/pikachu.png|$BG_DIR/pikachu.png|" \
+sed "s|/CHANGE/ME/backgrounds/|$BG_DIR/|" \
   "$REPO_DIR/config.ghostty" > "$CONFIG"
 
 echo "Installed. In cmux, run the 'reload_config' command (or press Cmd+Shift+,)."

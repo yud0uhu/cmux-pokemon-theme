@@ -1,13 +1,17 @@
-# cmux / Ghostty configuration — Pokémon Pikachu theme
+# cmux / Ghostty configuration — Pokémon themes
 #
 # NOTE: This is a sample. `background-image` must be an ABSOLUTE path.
 # Run ./install.sh to deploy this with the path rewritten for your machine,
 # or edit the path below by hand.
+#
+# Switch theme by changing BOTH the theme name and the matching background:
+#   theme = Pokemon Pikachu  ->  backgrounds/pikachu.png
+#   theme = Pokemon Jolteon  ->  backgrounds/jolteon.png
 
-theme = Pokemon Pikachu
+theme = Pokemon Jolteon
 
-# Pikachu background image (the signature hyper-pokemon look)
-background-image = /CHANGE/ME/backgrounds/pikachu.png
+# Background image (the signature hyper-pokemon look)
+background-image = /CHANGE/ME/backgrounds/jolteon.png
 background-image-fit = cover
 background-image-position = center
 # Dim the image so terminal text stays readable. Raise toward 1.0 for the
