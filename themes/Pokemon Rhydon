@@ -1,0 +1,27 @@
+# Pokémon Rhydon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E7CEB8  secondary #434957  tertiary #00FAE9  unibody #99A0B0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #99A0B0
+foreground = #434957
+cursor-color = #434957
+cursor-text = #99A0B0
+selection-background = #E7CEB8
+selection-foreground = #434957
+
+palette = 0=#00FAE9
+palette = 1=#434957
+palette = 2=#00FAE9
+palette = 3=#434957
+palette = 4=#434957
+palette = 5=#434957
+palette = 6=#434957
+palette = 7=#C7C7C7
+palette = 8=#00FAE9
+palette = 9=#434957
+palette = 10=#434957
+palette = 11=#434957
+palette = 12=#434957
+palette = 13=#434957
+palette = 14=#434957
+palette = 15=#FFFFFF

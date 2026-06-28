@@ -1,0 +1,27 @@
+# Pokémon Alakazam — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D8BF58  secondary #4F4A34  tertiary #A5978B  unibody #EAD055
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EAD055
+foreground = #4F4A34
+cursor-color = #4F4A34
+cursor-text = #EAD055
+selection-background = #D8BF58
+selection-foreground = #4F4A34
+
+palette = 0=#A5978B
+palette = 1=#4F4A34
+palette = 2=#A5978B
+palette = 3=#4F4A34
+palette = 4=#4F4A34
+palette = 5=#4F4A34
+palette = 6=#4F4A34
+palette = 7=#C7C7C7
+palette = 8=#A5978B
+palette = 9=#4F4A34
+palette = 10=#4F4A34
+palette = 11=#4F4A34
+palette = 12=#4F4A34
+palette = 13=#4F4A34
+palette = 14=#4F4A34
+palette = 15=#FFFFFF

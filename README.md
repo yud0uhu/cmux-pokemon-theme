@@ -2,12 +2,16 @@
 
 [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon)（Hyper ターミナル用の Pokémon テーマ）を、[cmux](https://github.com/manaflow-ai/cmux) のターミナル（[Ghostty](https://ghostty.org) バックエンド）向けに移植したものです。
 
-収録テーマ（カラー + 全画面の背景画像）:
-
-- **ピカチュウ** (`Pokemon Pikachu`)
-- **サンダース** (`Pokemon Jolteon`)
+**全 153 種**のポケモンテーマ（カラー + 全画面の背景画像）を収録しています。テーマ名は `Pokemon <名前>` 形式（例: `Pokemon Pikachu`, `Pokemon Jolteon`, `Pokemon Charizard`）。利用可能な一覧は `ghostty +list-themes` でも確認できます。
 
 > Port of the Hyper [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon) theme to cmux's Ghostty-based terminal.
+
+<details>
+<summary>収録テーマ一覧（153種）</summary>
+
+Abra, Aerodactyl, Alakazam, Arbok, Arcanine, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Butterfree, Caterpie, Chansey, Charizard, Charmander, Charmeleon, Clefable, Clefairy, Cloyster, Cubone, Dewgong, Diglett, Ditto, Dodrio, Doduo, Dragonair, Dragonite, Dratini, Drowzee, Dugtrio, Eevee, Ekans, Electabuzz, Electrode, Exeggcute, Exeggutor, Farfetchd, Fearow, Flareon, Gastly, Gengar, Geodude, Gloom, Golbat, Goldeen, Golduck, Golem, Graveler, Grimer, Growlithe, Gyarados, Haunter, Hitmonchan, Hitmonlee, Horsea, Hypno, Ivysaur, Jigglypuff, Jolteon, Jynx, Kabuto, Kabutops, Kadabra, Kakuna, Kangaskhan, Kingler, Koffing, Krabby, Lapras, Lickitung, Machamp, Machoke, Machop, Magikarp, Magmar, Magnemite, Magneton, Mankey, Marowak, Meowth, Metapod, Mew, Mewtwo, Missingno, Moltres, Mr.mime, Mudkip, Muk, Nidoking, Nidoqueen, Nidoran-female, Nidoran-male, Nidorina, Nidorino, Ninetales, Oddish, Omanyte, Omastar, Onix, Paras, Parasect, Persian, Pidgeot, Pidgeotto, Pidgey, Pikachu, Pinsir, Poliwag, Poliwhirl, Poliwrath, Ponyta, Porygon, Primeape, Psyduck, Raichu, Rapidash, Raticate, Rattata, Rhydon, Rhyhorn, Sandshrew, Sandslash, Scyther, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Snorlax, Spearow, Squirtle, Starmie, Staryu, Tangela, Tauros, Tentacool, Tentacruel, Vaporeon, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Voltorb, Vulpix, Wartortle, Weedle, Weepinbell, Weezing, Wigglytuff, Zapdos, Zubat
+
+</details>
 
 ## カラーマッピング
 

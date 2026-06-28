@@ -1,0 +1,27 @@
+# Pokémon Golem — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #494441  secondary #B74345  tertiary #FFBCD3  unibody #898E88
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #898E88
+foreground = #B74345
+cursor-color = #B74345
+cursor-text = #898E88
+selection-background = #494441
+selection-foreground = #B74345
+
+palette = 0=#FFBCD3
+palette = 1=#B74345
+palette = 2=#FFBCD3
+palette = 3=#B74345
+palette = 4=#B74345
+palette = 5=#B74345
+palette = 6=#B74345
+palette = 7=#C7C7C7
+palette = 8=#FFBCD3
+palette = 9=#B74345
+palette = 10=#B74345
+palette = 11=#B74345
+palette = 12=#B74345
+palette = 13=#B74345
+palette = 14=#B74345
+palette = 15=#FFFFFF

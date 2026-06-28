@@ -1,0 +1,27 @@
+# Pokémon Hitmonlee — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #302C2B  secondary #171210  tertiary #43D2B4  unibody #9F8880
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #9F8880
+foreground = #171210
+cursor-color = #171210
+cursor-text = #9F8880
+selection-background = #302C2B
+selection-foreground = #171210
+
+palette = 0=#43D2B4
+palette = 1=#171210
+palette = 2=#43D2B4
+palette = 3=#171210
+palette = 4=#171210
+palette = 5=#171210
+palette = 6=#171210
+palette = 7=#C7C7C7
+palette = 8=#43D2B4
+palette = 9=#171210
+palette = 10=#171210
+palette = 11=#171210
+palette = 12=#171210
+palette = 13=#171210
+palette = 14=#171210
+palette = 15=#FFFFFF

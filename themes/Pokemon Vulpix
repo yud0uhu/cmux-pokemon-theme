@@ -1,0 +1,27 @@
+# Pokémon Vulpix — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #723822  secondary #421402  tertiary #F2A485  unibody #C08672
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #C08672
+foreground = #421402
+cursor-color = #421402
+cursor-text = #C08672
+selection-background = #723822
+selection-foreground = #421402
+
+palette = 0=#F2A485
+palette = 1=#421402
+palette = 2=#F2A485
+palette = 3=#421402
+palette = 4=#421402
+palette = 5=#421402
+palette = 6=#421402
+palette = 7=#C7C7C7
+palette = 8=#F2A485
+palette = 9=#421402
+palette = 10=#421402
+palette = 11=#421402
+palette = 12=#421402
+palette = 13=#421402
+palette = 14=#421402
+palette = 15=#FFFFFF

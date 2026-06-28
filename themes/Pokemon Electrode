@@ -1,0 +1,27 @@
+# Pokémon Electrode — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #EC1D23  secondary #000000  tertiary #009BFF  unibody #FFFFFF
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #FFFFFF
+foreground = #000000
+cursor-color = #000000
+cursor-text = #FFFFFF
+selection-background = #EC1D23
+selection-foreground = #000000
+
+palette = 0=#009BFF
+palette = 1=#000000
+palette = 2=#009BFF
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#009BFF
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

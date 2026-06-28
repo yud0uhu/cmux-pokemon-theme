@@ -1,0 +1,27 @@
+# Pokémon Mewtwo — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #9B7D97  secondary #4D4652  tertiary #8F6DA6  unibody #DFD9E3
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #DFD9E3
+foreground = #4D4652
+cursor-color = #4D4652
+cursor-text = #DFD9E3
+selection-background = #9B7D97
+selection-foreground = #4D4652
+
+palette = 0=#8F6DA6
+palette = 1=#4D4652
+palette = 2=#8F6DA6
+palette = 3=#4D4652
+palette = 4=#4D4652
+palette = 5=#4D4652
+palette = 6=#4D4652
+palette = 7=#C7C7C7
+palette = 8=#8F6DA6
+palette = 9=#4D4652
+palette = 10=#4D4652
+palette = 11=#4D4652
+palette = 12=#4D4652
+palette = 13=#4D4652
+palette = 14=#4D4652
+palette = 15=#FFFFFF

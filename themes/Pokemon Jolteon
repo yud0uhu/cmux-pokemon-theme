@@ -1,6 +1,5 @@
 # Pokémon Jolteon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
-# Source theme colors:
-#   primary: #080607  secondary: #3189C0  tertiary: #720073  unibody: #F3D156
+# Source colors: primary #080607  secondary #3189C0  tertiary #720073  unibody #F3D156
 # Mapping mirrors hyper-pokemon/index.js decorateConfig().
 
 background = #F3D156
@@ -10,7 +9,6 @@ cursor-text = #F3D156
 selection-background = #080607
 selection-foreground = #3189C0
 
-# Normal colors
 palette = 0=#720073
 palette = 1=#3189C0
 palette = 2=#720073
@@ -19,8 +17,6 @@ palette = 4=#3189C0
 palette = 5=#3189C0
 palette = 6=#3189C0
 palette = 7=#C7C7C7
-
-# Bright colors
 palette = 8=#720073
 palette = 9=#3189C0
 palette = 10=#3189C0

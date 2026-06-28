@@ -1,0 +1,27 @@
+# Pokémon Porygon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #4A9CA7  secondary #1C070A  tertiary #FFCF00  unibody #D14353
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D14353
+foreground = #1C070A
+cursor-color = #1C070A
+cursor-text = #D14353
+selection-background = #4A9CA7
+selection-foreground = #1C070A
+
+palette = 0=#FFCF00
+palette = 1=#1C070A
+palette = 2=#FFCF00
+palette = 3=#1C070A
+palette = 4=#1C070A
+palette = 5=#1C070A
+palette = 6=#1C070A
+palette = 7=#C7C7C7
+palette = 8=#FFCF00
+palette = 9=#1C070A
+palette = 10=#1C070A
+palette = 11=#1C070A
+palette = 12=#1C070A
+palette = 13=#1C070A
+palette = 14=#1C070A
+palette = 15=#FFFFFF

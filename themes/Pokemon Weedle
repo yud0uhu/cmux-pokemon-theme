@@ -1,0 +1,27 @@
+# Pokémon Weedle — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #EDF5EA  secondary #EDF5EA  tertiary #A547A5  unibody #D09D4C
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D09D4C
+foreground = #EDF5EA
+cursor-color = #EDF5EA
+cursor-text = #D09D4C
+selection-background = #EDF5EA
+selection-foreground = #EDF5EA
+
+palette = 0=#A547A5
+palette = 1=#EDF5EA
+palette = 2=#A547A5
+palette = 3=#EDF5EA
+palette = 4=#EDF5EA
+palette = 5=#EDF5EA
+palette = 6=#EDF5EA
+palette = 7=#686868
+palette = 8=#A547A5
+palette = 9=#EDF5EA
+palette = 10=#EDF5EA
+palette = 11=#EDF5EA
+palette = 12=#EDF5EA
+palette = 13=#EDF5EA
+palette = 14=#EDF5EA
+palette = 15=#000000

@@ -1,0 +1,27 @@
+# Pokémon Scyther — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6A9B40  secondary #1D300C  tertiary #4C57B8  unibody #80C342
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #80C342
+foreground = #1D300C
+cursor-color = #1D300C
+cursor-text = #80C342
+selection-background = #6A9B40
+selection-foreground = #1D300C
+
+palette = 0=#4C57B8
+palette = 1=#1D300C
+palette = 2=#4C57B8
+palette = 3=#1D300C
+palette = 4=#1D300C
+palette = 5=#1D300C
+palette = 6=#1D300C
+palette = 7=#C7C7C7
+palette = 8=#4C57B8
+palette = 9=#1D300C
+palette = 10=#1D300C
+palette = 11=#1D300C
+palette = 12=#1D300C
+palette = 13=#1D300C
+palette = 14=#1D300C
+palette = 15=#FFFFFF

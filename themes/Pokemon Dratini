@@ -1,0 +1,27 @@
+# Pokémon Dratini — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #5577BB  secondary #F4FBFF  tertiary #D9D9D9  unibody #97BDE4
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #97BDE4
+foreground = #F4FBFF
+cursor-color = #F4FBFF
+cursor-text = #97BDE4
+selection-background = #5577BB
+selection-foreground = #F4FBFF
+
+palette = 0=#D9D9D9
+palette = 1=#F4FBFF
+palette = 2=#D9D9D9
+palette = 3=#F4FBFF
+palette = 4=#F4FBFF
+palette = 5=#F4FBFF
+palette = 6=#F4FBFF
+palette = 7=#686868
+palette = 8=#D9D9D9
+palette = 9=#F4FBFF
+palette = 10=#F4FBFF
+palette = 11=#F4FBFF
+palette = 12=#F4FBFF
+palette = 13=#F4FBFF
+palette = 14=#F4FBFF
+palette = 15=#000000

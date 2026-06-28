@@ -1,0 +1,27 @@
+# Pokémon Ivysaur — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #1C6C6A  secondary #062121  tertiary #6ECFD1  unibody #278887
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #278887
+foreground = #062121
+cursor-color = #062121
+cursor-text = #278887
+selection-background = #1C6C6A
+selection-foreground = #062121
+
+palette = 0=#6ECFD1
+palette = 1=#062121
+palette = 2=#6ECFD1
+palette = 3=#062121
+palette = 4=#062121
+palette = 5=#062121
+palette = 6=#062121
+palette = 7=#C7C7C7
+palette = 8=#6ECFD1
+palette = 9=#062121
+palette = 10=#062121
+palette = 11=#062121
+palette = 12=#062121
+palette = 13=#062121
+palette = 14=#062121
+palette = 15=#FFFFFF

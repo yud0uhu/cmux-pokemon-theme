@@ -1,0 +1,27 @@
+# Pokémon Venonat — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C5598B  secondary #1E1B33  tertiary #51275C  unibody #615A90
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #615A90
+foreground = #1E1B33
+cursor-color = #1E1B33
+cursor-text = #615A90
+selection-background = #C5598B
+selection-foreground = #1E1B33
+
+palette = 0=#51275C
+palette = 1=#1E1B33
+palette = 2=#51275C
+palette = 3=#1E1B33
+palette = 4=#1E1B33
+palette = 5=#1E1B33
+palette = 6=#1E1B33
+palette = 7=#C7C7C7
+palette = 8=#51275C
+palette = 9=#1E1B33
+palette = 10=#1E1B33
+palette = 11=#1E1B33
+palette = 12=#1E1B33
+palette = 13=#1E1B33
+palette = 14=#1E1B33
+palette = 15=#FFFFFF

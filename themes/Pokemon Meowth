@@ -1,0 +1,27 @@
+# Pokémon Meowth — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #434343  secondary #0048C4  tertiary #000000  unibody #F4EDD1
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F4EDD1
+foreground = #0048C4
+cursor-color = #0048C4
+cursor-text = #F4EDD1
+selection-background = #434343
+selection-foreground = #0048C4
+
+palette = 0=#000000
+palette = 1=#0048C4
+palette = 2=#000000
+palette = 3=#0048C4
+palette = 4=#0048C4
+palette = 5=#0048C4
+palette = 6=#0048C4
+palette = 7=#C7C7C7
+palette = 8=#000000
+palette = 9=#0048C4
+palette = 10=#0048C4
+palette = 11=#0048C4
+palette = 12=#0048C4
+palette = 13=#0048C4
+palette = 14=#0048C4
+palette = 15=#FFFFFF

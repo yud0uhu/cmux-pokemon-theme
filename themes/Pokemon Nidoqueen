@@ -1,0 +1,27 @@
+# Pokémon Nidoqueen — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #597E98  secondary #111742  tertiary #AD7561  unibody #81ABC3
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #81ABC3
+foreground = #111742
+cursor-color = #111742
+cursor-text = #81ABC3
+selection-background = #597E98
+selection-foreground = #111742
+
+palette = 0=#AD7561
+palette = 1=#111742
+palette = 2=#AD7561
+palette = 3=#111742
+palette = 4=#111742
+palette = 5=#111742
+palette = 6=#111742
+palette = 7=#C7C7C7
+palette = 8=#AD7561
+palette = 9=#111742
+palette = 10=#111742
+palette = 11=#111742
+palette = 12=#111742
+palette = 13=#111742
+palette = 14=#111742
+palette = 15=#FFFFFF

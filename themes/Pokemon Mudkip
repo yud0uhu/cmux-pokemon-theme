@@ -1,0 +1,27 @@
+# Pokémon Mudkip — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E0A142  secondary #05182A  tertiary #600060  unibody #32A1E4
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #32A1E4
+foreground = #05182A
+cursor-color = #05182A
+cursor-text = #32A1E4
+selection-background = #E0A142
+selection-foreground = #05182A
+
+palette = 0=#600060
+palette = 1=#05182A
+palette = 2=#600060
+palette = 3=#05182A
+palette = 4=#05182A
+palette = 5=#05182A
+palette = 6=#05182A
+palette = 7=#C7C7C7
+palette = 8=#600060
+palette = 9=#05182A
+palette = 10=#05182A
+palette = 11=#05182A
+palette = 12=#05182A
+palette = 13=#05182A
+palette = 14=#05182A
+palette = 15=#FFFFFF

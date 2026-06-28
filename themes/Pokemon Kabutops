@@ -1,0 +1,27 @@
+# Pokémon Kabutops — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #92786B  secondary #291F19  tertiary #89E3B5  unibody #B2927D
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B2927D
+foreground = #291F19
+cursor-color = #291F19
+cursor-text = #B2927D
+selection-background = #92786B
+selection-foreground = #291F19
+
+palette = 0=#89E3B5
+palette = 1=#291F19
+palette = 2=#89E3B5
+palette = 3=#291F19
+palette = 4=#291F19
+palette = 5=#291F19
+palette = 6=#291F19
+palette = 7=#C7C7C7
+palette = 8=#89E3B5
+palette = 9=#291F19
+palette = 10=#291F19
+palette = 11=#291F19
+palette = 12=#291F19
+palette = 13=#291F19
+palette = 14=#291F19
+palette = 15=#FFFFFF

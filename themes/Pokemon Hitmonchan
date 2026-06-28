@@ -1,0 +1,27 @@
+# Pokémon Hitmonchan — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C66961  secondary #1F1B17  tertiary #FFF9F2  unibody #C2B5A5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #C2B5A5
+foreground = #1F1B17
+cursor-color = #1F1B17
+cursor-text = #C2B5A5
+selection-background = #C66961
+selection-foreground = #1F1B17
+
+palette = 0=#FFF9F2
+palette = 1=#1F1B17
+palette = 2=#FFF9F2
+palette = 3=#1F1B17
+palette = 4=#1F1B17
+palette = 5=#1F1B17
+palette = 6=#1F1B17
+palette = 7=#C7C7C7
+palette = 8=#FFF9F2
+palette = 9=#1F1B17
+palette = 10=#1F1B17
+palette = 11=#1F1B17
+palette = 12=#1F1B17
+palette = 13=#1F1B17
+palette = 14=#1F1B17
+palette = 15=#FFFFFF

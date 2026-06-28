@@ -1,0 +1,27 @@
+# Pokémon Muk — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #775A92  secondary #23182E  tertiary #DEC9A0  unibody #8D6DAC
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #8D6DAC
+foreground = #23182E
+cursor-color = #23182E
+cursor-text = #8D6DAC
+selection-background = #775A92
+selection-foreground = #23182E
+
+palette = 0=#DEC9A0
+palette = 1=#23182E
+palette = 2=#DEC9A0
+palette = 3=#23182E
+palette = 4=#23182E
+palette = 5=#23182E
+palette = 6=#23182E
+palette = 7=#C7C7C7
+palette = 8=#DEC9A0
+palette = 9=#23182E
+palette = 10=#23182E
+palette = 11=#23182E
+palette = 12=#23182E
+palette = 13=#23182E
+palette = 14=#23182E
+palette = 15=#FFFFFF

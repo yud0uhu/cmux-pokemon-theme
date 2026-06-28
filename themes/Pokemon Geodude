@@ -1,0 +1,27 @@
+# Pokémon Geodude — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #505833  secondary #382C00  tertiary #A6552D  unibody #B5A66D
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B5A66D
+foreground = #382C00
+cursor-color = #382C00
+cursor-text = #B5A66D
+selection-background = #505833
+selection-foreground = #382C00
+
+palette = 0=#A6552D
+palette = 1=#382C00
+palette = 2=#A6552D
+palette = 3=#382C00
+palette = 4=#382C00
+palette = 5=#382C00
+palette = 6=#382C00
+palette = 7=#C7C7C7
+palette = 8=#A6552D
+palette = 9=#382C00
+palette = 10=#382C00
+palette = 11=#382C00
+palette = 12=#382C00
+palette = 13=#382C00
+palette = 14=#382C00
+palette = 15=#FFFFFF

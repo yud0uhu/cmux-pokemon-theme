@@ -1,0 +1,27 @@
+# Pokémon Jynx — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #CB313B  secondary #110919  tertiary #28A651  unibody #552B7F
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #552B7F
+foreground = #110919
+cursor-color = #110919
+cursor-text = #552B7F
+selection-background = #CB313B
+selection-foreground = #110919
+
+palette = 0=#28A651
+palette = 1=#110919
+palette = 2=#28A651
+palette = 3=#110919
+palette = 4=#110919
+palette = 5=#110919
+palette = 6=#110919
+palette = 7=#C7C7C7
+palette = 8=#28A651
+palette = 9=#110919
+palette = 10=#110919
+palette = 11=#110919
+palette = 12=#110919
+palette = 13=#110919
+palette = 14=#110919
+palette = 15=#FFFFFF

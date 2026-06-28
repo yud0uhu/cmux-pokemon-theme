@@ -1,0 +1,27 @@
+# Pokémon Snorlax — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F5EF7C  secondary #1A2927  tertiary #40C9B2  unibody #4A736B
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #4A736B
+foreground = #1A2927
+cursor-color = #1A2927
+cursor-text = #4A736B
+selection-background = #F5EF7C
+selection-foreground = #1A2927
+
+palette = 0=#40C9B2
+palette = 1=#1A2927
+palette = 2=#40C9B2
+palette = 3=#1A2927
+palette = 4=#1A2927
+palette = 5=#1A2927
+palette = 6=#1A2927
+palette = 7=#C7C7C7
+palette = 8=#40C9B2
+palette = 9=#1A2927
+palette = 10=#1A2927
+palette = 11=#1A2927
+palette = 12=#1A2927
+palette = 13=#1A2927
+palette = 14=#1A2927
+palette = 15=#FFFFFF

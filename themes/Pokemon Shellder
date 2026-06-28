@@ -1,0 +1,27 @@
+# Pokémon Shellder — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #221E1F  secondary #48416B  tertiary #FFFFFF  unibody #867DB2
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #867DB2
+foreground = #48416B
+cursor-color = #48416B
+cursor-text = #867DB2
+selection-background = #221E1F
+selection-foreground = #48416B
+
+palette = 0=#FFFFFF
+palette = 1=#48416B
+palette = 2=#FFFFFF
+palette = 3=#48416B
+palette = 4=#48416B
+palette = 5=#48416B
+palette = 6=#48416B
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#48416B
+palette = 10=#48416B
+palette = 11=#48416B
+palette = 12=#48416B
+palette = 13=#48416B
+palette = 14=#48416B
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Clefable — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C694A0  secondary #A41020  tertiary #104A8B  unibody #F6D9D1
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F6D9D1
+foreground = #A41020
+cursor-color = #A41020
+cursor-text = #F6D9D1
+selection-background = #C694A0
+selection-foreground = #A41020
+
+palette = 0=#104A8B
+palette = 1=#A41020
+palette = 2=#104A8B
+palette = 3=#A41020
+palette = 4=#A41020
+palette = 5=#A41020
+palette = 6=#A41020
+palette = 7=#C7C7C7
+palette = 8=#104A8B
+palette = 9=#A41020
+palette = 10=#A41020
+palette = 11=#A41020
+palette = 12=#A41020
+palette = 13=#A41020
+palette = 14=#A41020
+palette = 15=#FFFFFF

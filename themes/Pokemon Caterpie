@@ -1,0 +1,27 @@
+# Pokémon Caterpie — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F47B59  secondary #63583E  tertiary #F2DF9C  unibody #8CC979
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #8CC979
+foreground = #63583E
+cursor-color = #63583E
+cursor-text = #8CC979
+selection-background = #F47B59
+selection-foreground = #63583E
+
+palette = 0=#F2DF9C
+palette = 1=#63583E
+palette = 2=#F2DF9C
+palette = 3=#63583E
+palette = 4=#63583E
+palette = 5=#63583E
+palette = 6=#63583E
+palette = 7=#C7C7C7
+palette = 8=#F2DF9C
+palette = 9=#63583E
+palette = 10=#63583E
+palette = 11=#63583E
+palette = 12=#63583E
+palette = 13=#63583E
+palette = 14=#63583E
+palette = 15=#FFFFFF

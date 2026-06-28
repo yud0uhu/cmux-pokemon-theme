@@ -1,0 +1,27 @@
+# Pokémon Diglett — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E6B5D3  secondary #634B3B  tertiary #FFFFFF  unibody #A88975
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A88975
+foreground = #634B3B
+cursor-color = #634B3B
+cursor-text = #A88975
+selection-background = #E6B5D3
+selection-foreground = #634B3B
+
+palette = 0=#FFFFFF
+palette = 1=#634B3B
+palette = 2=#FFFFFF
+palette = 3=#634B3B
+palette = 4=#634B3B
+palette = 5=#634B3B
+palette = 6=#634B3B
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#634B3B
+palette = 10=#634B3B
+palette = 11=#634B3B
+palette = 12=#634B3B
+palette = 13=#634B3B
+palette = 14=#634B3B
+palette = 15=#FFFFFF

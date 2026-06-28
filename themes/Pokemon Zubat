@@ -1,0 +1,27 @@
+# Pokémon Zubat — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #874E83  secondary #F5F56E  tertiary #5C421B  unibody #5486A9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #5486A9
+foreground = #F5F56E
+cursor-color = #F5F56E
+cursor-text = #5486A9
+selection-background = #874E83
+selection-foreground = #F5F56E
+
+palette = 0=#5C421B
+palette = 1=#F5F56E
+palette = 2=#5C421B
+palette = 3=#F5F56E
+palette = 4=#F5F56E
+palette = 5=#F5F56E
+palette = 6=#F5F56E
+palette = 7=#686868
+palette = 8=#5C421B
+palette = 9=#F5F56E
+palette = 10=#F5F56E
+palette = 11=#F5F56E
+palette = 12=#F5F56E
+palette = 13=#F5F56E
+palette = 14=#F5F56E
+palette = 15=#000000

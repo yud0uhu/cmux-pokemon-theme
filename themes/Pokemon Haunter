@@ -1,0 +1,27 @@
+# Pokémon Haunter — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #ED779A  secondary #242033  tertiary #FFBC00  unibody #7D6EB3
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #7D6EB3
+foreground = #242033
+cursor-color = #242033
+cursor-text = #7D6EB3
+selection-background = #ED779A
+selection-foreground = #242033
+
+palette = 0=#FFBC00
+palette = 1=#242033
+palette = 2=#FFBC00
+palette = 3=#242033
+palette = 4=#242033
+palette = 5=#242033
+palette = 6=#242033
+palette = 7=#C7C7C7
+palette = 8=#FFBC00
+palette = 9=#242033
+palette = 10=#242033
+palette = 11=#242033
+palette = 12=#242033
+palette = 13=#242033
+palette = 14=#242033
+palette = 15=#FFFFFF

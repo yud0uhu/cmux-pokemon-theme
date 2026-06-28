@@ -1,23 +1,23 @@
-# Pokémon Pikachu — ported from hyper-pokemon (klaussinani/hyper-pokemon)
-# Source colors: primary #F6BD20  secondary #4C1803  tertiary #DE7329  unibody #F7DE82
+# Pokémon Charizard — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #CF844B  secondary #4C1803  tertiary #DBD8AE  unibody #DC8E4C
 # Mapping mirrors hyper-pokemon/index.js decorateConfig().
 
-background = #F7DE82
+background = #DC8E4C
 foreground = #4C1803
 cursor-color = #4C1803
-cursor-text = #F7DE82
-selection-background = #F6BD20
+cursor-text = #DC8E4C
+selection-background = #CF844B
 selection-foreground = #4C1803
 
-palette = 0=#DE7329
+palette = 0=#DBD8AE
 palette = 1=#4C1803
-palette = 2=#DE7329
+palette = 2=#DBD8AE
 palette = 3=#4C1803
 palette = 4=#4C1803
 palette = 5=#4C1803
 palette = 6=#4C1803
 palette = 7=#C7C7C7
-palette = 8=#DE7329
+palette = 8=#DBD8AE
 palette = 9=#4C1803
 palette = 10=#4C1803
 palette = 11=#4C1803

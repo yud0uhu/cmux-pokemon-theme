@@ -1,0 +1,27 @@
+# Pokémon Farfetchd — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F9B820  secondary #FFFFF2  tertiary #0052A6  unibody #B2927D
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B2927D
+foreground = #FFFFF2
+cursor-color = #FFFFF2
+cursor-text = #B2927D
+selection-background = #F9B820
+selection-foreground = #FFFFF2
+
+palette = 0=#0052A6
+palette = 1=#FFFFF2
+palette = 2=#0052A6
+palette = 3=#FFFFF2
+palette = 4=#FFFFF2
+palette = 5=#FFFFF2
+palette = 6=#FFFFF2
+palette = 7=#686868
+palette = 8=#0052A6
+palette = 9=#FFFFF2
+palette = 10=#FFFFF2
+palette = 11=#FFFFF2
+palette = 12=#FFFFF2
+palette = 13=#FFFFF2
+palette = 14=#FFFFF2
+palette = 15=#000000

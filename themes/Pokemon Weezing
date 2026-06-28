@@ -1,0 +1,27 @@
+# Pokémon Weezing — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #897B88  secondary #3B3345  tertiary #FFF9B4  unibody #B1A4C2
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B1A4C2
+foreground = #3B3345
+cursor-color = #3B3345
+cursor-text = #B1A4C2
+selection-background = #897B88
+selection-foreground = #3B3345
+
+palette = 0=#FFF9B4
+palette = 1=#3B3345
+palette = 2=#FFF9B4
+palette = 3=#3B3345
+palette = 4=#3B3345
+palette = 5=#3B3345
+palette = 6=#3B3345
+palette = 7=#C7C7C7
+palette = 8=#FFF9B4
+palette = 9=#3B3345
+palette = 10=#3B3345
+palette = 11=#3B3345
+palette = 12=#3B3345
+palette = 13=#3B3345
+palette = 14=#3B3345
+palette = 15=#FFFFFF

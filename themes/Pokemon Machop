@@ -1,0 +1,27 @@
+# Pokémon Machop — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #94ADB2  secondary #202C2E  tertiary #C22C2E  unibody #A6C7CE
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A6C7CE
+foreground = #202C2E
+cursor-color = #202C2E
+cursor-text = #A6C7CE
+selection-background = #94ADB2
+selection-foreground = #202C2E
+
+palette = 0=#C22C2E
+palette = 1=#202C2E
+palette = 2=#C22C2E
+palette = 3=#202C2E
+palette = 4=#202C2E
+palette = 5=#202C2E
+palette = 6=#202C2E
+palette = 7=#C7C7C7
+palette = 8=#C22C2E
+palette = 9=#202C2E
+palette = 10=#202C2E
+palette = 11=#202C2E
+palette = 12=#202C2E
+palette = 13=#202C2E
+palette = 14=#202C2E
+palette = 15=#FFFFFF

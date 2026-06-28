@@ -1,0 +1,27 @@
+# Pokémon Chansey — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E99DA9  secondary #733E49  tertiary #459C64  unibody #FBD3DC
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #FBD3DC
+foreground = #733E49
+cursor-color = #733E49
+cursor-text = #FBD3DC
+selection-background = #E99DA9
+selection-foreground = #733E49
+
+palette = 0=#459C64
+palette = 1=#733E49
+palette = 2=#459C64
+palette = 3=#733E49
+palette = 4=#733E49
+palette = 5=#733E49
+palette = 6=#733E49
+palette = 7=#C7C7C7
+palette = 8=#459C64
+palette = 9=#733E49
+palette = 10=#733E49
+palette = 11=#733E49
+palette = 12=#733E49
+palette = 13=#733E49
+palette = 14=#733E49
+palette = 15=#FFFFFF

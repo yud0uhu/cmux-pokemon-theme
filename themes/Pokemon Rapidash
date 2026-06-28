@@ -1,0 +1,27 @@
+# Pokémon Rapidash — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #DF533C  secondary #1F1C15  tertiary #5B4BA8  unibody #F5EFBF
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F5EFBF
+foreground = #1F1C15
+cursor-color = #1F1C15
+cursor-text = #F5EFBF
+selection-background = #DF533C
+selection-foreground = #1F1C15
+
+palette = 0=#5B4BA8
+palette = 1=#1F1C15
+palette = 2=#5B4BA8
+palette = 3=#1F1C15
+palette = 4=#1F1C15
+palette = 5=#1F1C15
+palette = 6=#1F1C15
+palette = 7=#C7C7C7
+palette = 8=#5B4BA8
+palette = 9=#1F1C15
+palette = 10=#1F1C15
+palette = 11=#1F1C15
+palette = 12=#1F1C15
+palette = 13=#1F1C15
+palette = 14=#1F1C15
+palette = 15=#FFFFFF

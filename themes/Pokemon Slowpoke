@@ -1,0 +1,27 @@
+# Pokémon Slowpoke — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C491A2  secondary #8B5A18  tertiary #7B2031  unibody #E5A6B9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #E5A6B9
+foreground = #8B5A18
+cursor-color = #8B5A18
+cursor-text = #E5A6B9
+selection-background = #C491A2
+selection-foreground = #8B5A18
+
+palette = 0=#7B2031
+palette = 1=#8B5A18
+palette = 2=#7B2031
+palette = 3=#8B5A18
+palette = 4=#8B5A18
+palette = 5=#8B5A18
+palette = 6=#8B5A18
+palette = 7=#C7C7C7
+palette = 8=#7B2031
+palette = 9=#8B5A18
+palette = 10=#8B5A18
+palette = 11=#8B5A18
+palette = 12=#8B5A18
+palette = 13=#8B5A18
+palette = 14=#8B5A18
+palette = 15=#FFFFFF

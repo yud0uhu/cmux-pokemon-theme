@@ -1,0 +1,27 @@
+# Pokémon Oddish — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #4D9242  secondary #19242C  tertiary #FFFFFF  unibody #587D9A
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #587D9A
+foreground = #19242C
+cursor-color = #19242C
+cursor-text = #587D9A
+selection-background = #4D9242
+selection-foreground = #19242C
+
+palette = 0=#FFFFFF
+palette = 1=#19242C
+palette = 2=#FFFFFF
+palette = 3=#19242C
+palette = 4=#19242C
+palette = 5=#19242C
+palette = 6=#19242C
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#19242C
+palette = 10=#19242C
+palette = 11=#19242C
+palette = 12=#19242C
+palette = 13=#19242C
+palette = 14=#19242C
+palette = 15=#FFFFFF

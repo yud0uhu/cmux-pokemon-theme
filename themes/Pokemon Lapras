@@ -1,0 +1,27 @@
+# Pokémon Lapras — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #157397  secondary #00222E  tertiary #C26837  unibody #0793C6
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #0793C6
+foreground = #00222E
+cursor-color = #00222E
+cursor-text = #0793C6
+selection-background = #157397
+selection-foreground = #00222E
+
+palette = 0=#C26837
+palette = 1=#00222E
+palette = 2=#C26837
+palette = 3=#00222E
+palette = 4=#00222E
+palette = 5=#00222E
+palette = 6=#00222E
+palette = 7=#C7C7C7
+palette = 8=#C26837
+palette = 9=#00222E
+palette = 10=#00222E
+palette = 11=#00222E
+palette = 12=#00222E
+palette = 13=#00222E
+palette = 14=#00222E
+palette = 15=#FFFFFF

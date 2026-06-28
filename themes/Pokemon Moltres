@@ -1,0 +1,27 @@
+# Pokémon Moltres — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D63427  secondary #332714  tertiary #834BAB  unibody #F8C979
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F8C979
+foreground = #332714
+cursor-color = #332714
+cursor-text = #F8C979
+selection-background = #D63427
+selection-foreground = #332714
+
+palette = 0=#834BAB
+palette = 1=#332714
+palette = 2=#834BAB
+palette = 3=#332714
+palette = 4=#332714
+palette = 5=#332714
+palette = 6=#332714
+palette = 7=#C7C7C7
+palette = 8=#834BAB
+palette = 9=#332714
+palette = 10=#332714
+palette = 11=#332714
+palette = 12=#332714
+palette = 13=#332714
+palette = 14=#332714
+palette = 15=#FFFFFF

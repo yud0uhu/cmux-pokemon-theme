@@ -1,0 +1,27 @@
+# Pokémon Articuno — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #246F96  secondary #151F29  tertiary #5F6973  unibody #73A9DB
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #73A9DB
+foreground = #151F29
+cursor-color = #151F29
+cursor-text = #73A9DB
+selection-background = #246F96
+selection-foreground = #151F29
+
+palette = 0=#5F6973
+palette = 1=#151F29
+palette = 2=#5F6973
+palette = 3=#151F29
+palette = 4=#151F29
+palette = 5=#151F29
+palette = 6=#151F29
+palette = 7=#C7C7C7
+palette = 8=#5F6973
+palette = 9=#151F29
+palette = 10=#151F29
+palette = 11=#151F29
+palette = 12=#151F29
+palette = 13=#151F29
+palette = 14=#151F29
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Omastar — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E1DDAE  secondary #F6FCFF  tertiary #C24939  unibody #97CCDC
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #97CCDC
+foreground = #F6FCFF
+cursor-color = #F6FCFF
+cursor-text = #97CCDC
+selection-background = #E1DDAE
+selection-foreground = #F6FCFF
+
+palette = 0=#C24939
+palette = 1=#F6FCFF
+palette = 2=#C24939
+palette = 3=#F6FCFF
+palette = 4=#F6FCFF
+palette = 5=#F6FCFF
+palette = 6=#F6FCFF
+palette = 7=#686868
+palette = 8=#C24939
+palette = 9=#F6FCFF
+palette = 10=#F6FCFF
+palette = 11=#F6FCFF
+palette = 12=#F6FCFF
+palette = 13=#F6FCFF
+palette = 14=#F6FCFF
+palette = 15=#000000

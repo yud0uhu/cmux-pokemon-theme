@@ -1,0 +1,27 @@
+# Pokémon Zapdos — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #A38B47  secondary #0C0A0A  tertiary #EDB45D  unibody #FAD666
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #FAD666
+foreground = #0C0A0A
+cursor-color = #0C0A0A
+cursor-text = #FAD666
+selection-background = #A38B47
+selection-foreground = #0C0A0A
+
+palette = 0=#EDB45D
+palette = 1=#0C0A0A
+palette = 2=#EDB45D
+palette = 3=#0C0A0A
+palette = 4=#0C0A0A
+palette = 5=#0C0A0A
+palette = 6=#0C0A0A
+palette = 7=#C7C7C7
+palette = 8=#EDB45D
+palette = 9=#0C0A0A
+palette = 10=#0C0A0A
+palette = 11=#0C0A0A
+palette = 12=#0C0A0A
+palette = 13=#0C0A0A
+palette = 14=#0C0A0A
+palette = 15=#FFFFFF

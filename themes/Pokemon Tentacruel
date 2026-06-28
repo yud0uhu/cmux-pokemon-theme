@@ -1,0 +1,27 @@
+# Pokémon Tentacruel — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #2997BC  secondary #FFFFFF  tertiary #CF607C  unibody #000000
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #000000
+foreground = #FFFFFF
+cursor-color = #FFFFFF
+cursor-text = #000000
+selection-background = #2997BC
+selection-foreground = #FFFFFF
+
+palette = 0=#CF607C
+palette = 1=#FFFFFF
+palette = 2=#CF607C
+palette = 3=#FFFFFF
+palette = 4=#FFFFFF
+palette = 5=#FFFFFF
+palette = 6=#FFFFFF
+palette = 7=#686868
+palette = 8=#CF607C
+palette = 9=#FFFFFF
+palette = 10=#FFFFFF
+palette = 11=#FFFFFF
+palette = 12=#FFFFFF
+palette = 13=#FFFFFF
+palette = 14=#FFFFFF
+palette = 15=#000000

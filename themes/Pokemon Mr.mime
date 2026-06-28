@@ -1,0 +1,27 @@
+# Pokémon Mr.mime — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #183F5E  secondary #C4798B  tertiary #73696B  unibody #F9E4E9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F9E4E9
+foreground = #C4798B
+cursor-color = #C4798B
+cursor-text = #F9E4E9
+selection-background = #183F5E
+selection-foreground = #C4798B
+
+palette = 0=#73696B
+palette = 1=#C4798B
+palette = 2=#73696B
+palette = 3=#C4798B
+palette = 4=#C4798B
+palette = 5=#C4798B
+palette = 6=#C4798B
+palette = 7=#686868
+palette = 8=#73696B
+palette = 9=#C4798B
+palette = 10=#C4798B
+palette = 11=#C4798B
+palette = 12=#C4798B
+palette = 13=#C4798B
+palette = 14=#C4798B
+palette = 15=#000000

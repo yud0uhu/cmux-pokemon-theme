@@ -1,0 +1,27 @@
+# Pokémon Arcanine — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #EA5F24  secondary #665836  tertiary #FF9C04  unibody #FEE3A0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #FEE3A0
+foreground = #665836
+cursor-color = #665836
+cursor-text = #FEE3A0
+selection-background = #EA5F24
+selection-foreground = #665836
+
+palette = 0=#FF9C04
+palette = 1=#665836
+palette = 2=#FF9C04
+palette = 3=#665836
+palette = 4=#665836
+palette = 5=#665836
+palette = 6=#665836
+palette = 7=#C7C7C7
+palette = 8=#FF9C04
+palette = 9=#665836
+palette = 10=#665836
+palette = 11=#665836
+palette = 12=#665836
+palette = 13=#665836
+palette = 14=#665836
+palette = 15=#FFFFFF

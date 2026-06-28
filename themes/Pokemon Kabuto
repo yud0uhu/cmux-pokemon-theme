@@ -1,0 +1,27 @@
+# Pokémon Kabuto — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #B88B61  secondary #FFFFFF  tertiary #66226E  unibody #010101
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #010101
+foreground = #FFFFFF
+cursor-color = #FFFFFF
+cursor-text = #010101
+selection-background = #B88B61
+selection-foreground = #FFFFFF
+
+palette = 0=#66226E
+palette = 1=#FFFFFF
+palette = 2=#66226E
+palette = 3=#FFFFFF
+palette = 4=#FFFFFF
+palette = 5=#FFFFFF
+palette = 6=#FFFFFF
+palette = 7=#686868
+palette = 8=#66226E
+palette = 9=#FFFFFF
+palette = 10=#FFFFFF
+palette = 11=#FFFFFF
+palette = 12=#FFFFFF
+palette = 13=#FFFFFF
+palette = 14=#FFFFFF
+palette = 15=#000000

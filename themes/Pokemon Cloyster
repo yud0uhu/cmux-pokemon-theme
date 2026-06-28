@@ -1,0 +1,27 @@
+# Pokémon Cloyster — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #262336  secondary #48416B  tertiary #FFFF00  unibody #837A95
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #837A95
+foreground = #48416B
+cursor-color = #48416B
+cursor-text = #837A95
+selection-background = #262336
+selection-foreground = #48416B
+
+palette = 0=#FFFF00
+palette = 1=#48416B
+palette = 2=#FFFF00
+palette = 3=#48416B
+palette = 4=#48416B
+palette = 5=#48416B
+palette = 6=#48416B
+palette = 7=#C7C7C7
+palette = 8=#FFFF00
+palette = 9=#48416B
+palette = 10=#48416B
+palette = 11=#48416B
+palette = 12=#48416B
+palette = 13=#48416B
+palette = 14=#48416B
+palette = 15=#FFFFFF

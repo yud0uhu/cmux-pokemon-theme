@@ -1,0 +1,27 @@
+# Pokémon Raichu — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #66431B  secondary #623108  tertiary #C16200  unibody #F2BD4B
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F2BD4B
+foreground = #623108
+cursor-color = #623108
+cursor-text = #F2BD4B
+selection-background = #66431B
+selection-foreground = #623108
+
+palette = 0=#C16200
+palette = 1=#623108
+palette = 2=#C16200
+palette = 3=#623108
+palette = 4=#623108
+palette = 5=#623108
+palette = 6=#623108
+palette = 7=#C7C7C7
+palette = 8=#C16200
+palette = 9=#623108
+palette = 10=#623108
+palette = 11=#623108
+palette = 12=#623108
+palette = 13=#623108
+palette = 14=#623108
+palette = 15=#FFFFFF

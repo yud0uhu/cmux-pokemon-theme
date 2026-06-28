@@ -1,0 +1,27 @@
+# Pokémon Magikarp — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F8C471  secondary #632A1E  tertiary #000000  unibody #F17960
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F17960
+foreground = #632A1E
+cursor-color = #632A1E
+cursor-text = #F17960
+selection-background = #F8C471
+selection-foreground = #632A1E
+
+palette = 0=#000000
+palette = 1=#632A1E
+palette = 2=#000000
+palette = 3=#632A1E
+palette = 4=#632A1E
+palette = 5=#632A1E
+palette = 6=#632A1E
+palette = 7=#C7C7C7
+palette = 8=#000000
+palette = 9=#632A1E
+palette = 10=#632A1E
+palette = 11=#632A1E
+palette = 12=#632A1E
+palette = 13=#632A1E
+palette = 14=#632A1E
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Venomoth — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6E6991  secondary #373737  tertiary #FFFFFF  unibody #A59CC7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A59CC7
+foreground = #373737
+cursor-color = #373737
+cursor-text = #A59CC7
+selection-background = #6E6991
+selection-foreground = #373737
+
+palette = 0=#FFFFFF
+palette = 1=#373737
+palette = 2=#FFFFFF
+palette = 3=#373737
+palette = 4=#373737
+palette = 5=#373737
+palette = 6=#373737
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#373737
+palette = 10=#373737
+palette = 11=#373737
+palette = 12=#373737
+palette = 13=#373737
+palette = 14=#373737
+palette = 15=#FFFFFF

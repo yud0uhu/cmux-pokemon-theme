@@ -1,0 +1,27 @@
+# Pokémon Sandslash — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #AD8432  secondary #302E28  tertiary #987F42  unibody #E4C674
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #E4C674
+foreground = #302E28
+cursor-color = #302E28
+cursor-text = #E4C674
+selection-background = #AD8432
+selection-foreground = #302E28
+
+palette = 0=#987F42
+palette = 1=#302E28
+palette = 2=#987F42
+palette = 3=#302E28
+palette = 4=#302E28
+palette = 5=#302E28
+palette = 6=#302E28
+palette = 7=#C7C7C7
+palette = 8=#987F42
+palette = 9=#302E28
+palette = 10=#302E28
+palette = 11=#302E28
+palette = 12=#302E28
+palette = 13=#302E28
+palette = 14=#302E28
+palette = 15=#FFFFFF

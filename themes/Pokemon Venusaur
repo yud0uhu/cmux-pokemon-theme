@@ -1,0 +1,27 @@
+# Pokémon Venusaur — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #548B52  secondary #C9F3F1  tertiary #142625  unibody #58A7A2
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #58A7A2
+foreground = #C9F3F1
+cursor-color = #C9F3F1
+cursor-text = #58A7A2
+selection-background = #548B52
+selection-foreground = #C9F3F1
+
+palette = 0=#142625
+palette = 1=#C9F3F1
+palette = 2=#142625
+palette = 3=#C9F3F1
+palette = 4=#C9F3F1
+palette = 5=#C9F3F1
+palette = 6=#C9F3F1
+palette = 7=#686868
+palette = 8=#142625
+palette = 9=#C9F3F1
+palette = 10=#C9F3F1
+palette = 11=#C9F3F1
+palette = 12=#C9F3F1
+palette = 13=#C9F3F1
+palette = 14=#C9F3F1
+palette = 15=#000000

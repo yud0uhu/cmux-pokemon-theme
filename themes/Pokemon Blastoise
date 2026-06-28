@@ -1,0 +1,27 @@
+# Pokémon Blastoise — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #4D5D6C  secondary #42341C  tertiary #B7D9FF  unibody #85ACD7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #85ACD7
+foreground = #42341C
+cursor-color = #42341C
+cursor-text = #85ACD7
+selection-background = #4D5D6C
+selection-foreground = #42341C
+
+palette = 0=#B7D9FF
+palette = 1=#42341C
+palette = 2=#B7D9FF
+palette = 3=#42341C
+palette = 4=#42341C
+palette = 5=#42341C
+palette = 6=#42341C
+palette = 7=#C7C7C7
+palette = 8=#B7D9FF
+palette = 9=#42341C
+palette = 10=#42341C
+palette = 11=#42341C
+palette = 12=#42341C
+palette = 13=#42341C
+palette = 14=#42341C
+palette = 15=#FFFFFF

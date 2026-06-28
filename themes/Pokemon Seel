@@ -1,0 +1,27 @@
+# Pokémon Seel — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D4DDEC  secondary #33373B  tertiary #FF6482  unibody #EAEFF3
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EAEFF3
+foreground = #33373B
+cursor-color = #33373B
+cursor-text = #EAEFF3
+selection-background = #D4DDEC
+selection-foreground = #33373B
+
+palette = 0=#FF6482
+palette = 1=#33373B
+palette = 2=#FF6482
+palette = 3=#33373B
+palette = 4=#33373B
+palette = 5=#33373B
+palette = 6=#33373B
+palette = 7=#C7C7C7
+palette = 8=#FF6482
+palette = 9=#33373B
+palette = 10=#33373B
+palette = 11=#33373B
+palette = 12=#33373B
+palette = 13=#33373B
+palette = 14=#33373B
+palette = 15=#FFFFFF

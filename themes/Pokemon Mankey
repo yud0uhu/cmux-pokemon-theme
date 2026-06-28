@@ -1,0 +1,27 @@
+# Pokémon Mankey — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C8B7A5  secondary #3B2A29  tertiary #3B6D8F  unibody #F6E5D5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F6E5D5
+foreground = #3B2A29
+cursor-color = #3B2A29
+cursor-text = #F6E5D5
+selection-background = #C8B7A5
+selection-foreground = #3B2A29
+
+palette = 0=#3B6D8F
+palette = 1=#3B2A29
+palette = 2=#3B6D8F
+palette = 3=#3B2A29
+palette = 4=#3B2A29
+palette = 5=#3B2A29
+palette = 6=#3B2A29
+palette = 7=#C7C7C7
+palette = 8=#3B6D8F
+palette = 9=#3B2A29
+palette = 10=#3B2A29
+palette = 11=#3B2A29
+palette = 12=#3B2A29
+palette = 13=#3B2A29
+palette = 14=#3B2A29
+palette = 15=#FFFFFF

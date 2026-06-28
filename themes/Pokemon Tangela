@@ -1,0 +1,27 @@
+# Pokémon Tangela — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #DF775E  secondary #1C384F  tertiary #FFFCFF  unibody #6697C0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #6697C0
+foreground = #1C384F
+cursor-color = #1C384F
+cursor-text = #6697C0
+selection-background = #DF775E
+selection-foreground = #1C384F
+
+palette = 0=#FFFCFF
+palette = 1=#1C384F
+palette = 2=#FFFCFF
+palette = 3=#1C384F
+palette = 4=#1C384F
+palette = 5=#1C384F
+palette = 6=#1C384F
+palette = 7=#C7C7C7
+palette = 8=#FFFCFF
+palette = 9=#1C384F
+palette = 10=#1C384F
+palette = 11=#1C384F
+palette = 12=#1C384F
+palette = 13=#1C384F
+palette = 14=#1C384F
+palette = 15=#FFFFFF

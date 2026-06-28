@@ -1,0 +1,27 @@
+# Pokémon Dugtrio — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E1AECD  secondary #38291E  tertiary #FFFFFF  unibody #92745C
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #92745C
+foreground = #38291E
+cursor-color = #38291E
+cursor-text = #92745C
+selection-background = #E1AECD
+selection-foreground = #38291E
+
+palette = 0=#FFFFFF
+palette = 1=#38291E
+palette = 2=#FFFFFF
+palette = 3=#38291E
+palette = 4=#38291E
+palette = 5=#38291E
+palette = 6=#38291E
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#38291E
+palette = 10=#38291E
+palette = 11=#38291E
+palette = 12=#38291E
+palette = 13=#38291E
+palette = 14=#38291E
+palette = 15=#FFFFFF

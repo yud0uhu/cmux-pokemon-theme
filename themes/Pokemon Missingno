@@ -1,0 +1,27 @@
+# Pokémon Missingno — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6E6E6E  secondary #43B28F  tertiary #BB4477  unibody #000000
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #000000
+foreground = #43B28F
+cursor-color = #43B28F
+cursor-text = #000000
+selection-background = #6E6E6E
+selection-foreground = #43B28F
+
+palette = 0=#BB4477
+palette = 1=#43B28F
+palette = 2=#BB4477
+palette = 3=#43B28F
+palette = 4=#43B28F
+palette = 5=#43B28F
+palette = 6=#43B28F
+palette = 7=#686868
+palette = 8=#BB4477
+palette = 9=#43B28F
+palette = 10=#43B28F
+palette = 11=#43B28F
+palette = 12=#43B28F
+palette = 13=#43B28F
+palette = 14=#43B28F
+palette = 15=#000000

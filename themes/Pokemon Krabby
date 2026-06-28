@@ -1,0 +1,27 @@
+# Pokémon Krabby — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E78A4F  secondary #292929  tertiary #367382  unibody #F4E5E0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F4E5E0
+foreground = #292929
+cursor-color = #292929
+cursor-text = #F4E5E0
+selection-background = #E78A4F
+selection-foreground = #292929
+
+palette = 0=#367382
+palette = 1=#292929
+palette = 2=#367382
+palette = 3=#292929
+palette = 4=#292929
+palette = 5=#292929
+palette = 6=#292929
+palette = 7=#C7C7C7
+palette = 8=#367382
+palette = 9=#292929
+palette = 10=#292929
+palette = 11=#292929
+palette = 12=#292929
+palette = 13=#292929
+palette = 14=#292929
+palette = 15=#FFFFFF

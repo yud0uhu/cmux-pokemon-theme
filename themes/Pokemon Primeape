@@ -1,0 +1,27 @@
+# Pokémon Primeape — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F38C8D  secondary #4A71B5  tertiary #3B2F42  unibody #F6E5C7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F6E5C7
+foreground = #4A71B5
+cursor-color = #4A71B5
+cursor-text = #F6E5C7
+selection-background = #F38C8D
+selection-foreground = #4A71B5
+
+palette = 0=#3B2F42
+palette = 1=#4A71B5
+palette = 2=#3B2F42
+palette = 3=#4A71B5
+palette = 4=#4A71B5
+palette = 5=#4A71B5
+palette = 6=#4A71B5
+palette = 7=#C7C7C7
+palette = 8=#3B2F42
+palette = 9=#4A71B5
+palette = 10=#4A71B5
+palette = 11=#4A71B5
+palette = 12=#4A71B5
+palette = 13=#4A71B5
+palette = 14=#4A71B5
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Pinsir — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6C6260  secondary #60067D  tertiary #FFFFFF  unibody #B7A8A5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B7A8A5
+foreground = #60067D
+cursor-color = #60067D
+cursor-text = #B7A8A5
+selection-background = #6C6260
+selection-foreground = #60067D
+
+palette = 0=#FFFFFF
+palette = 1=#60067D
+palette = 2=#FFFFFF
+palette = 3=#60067D
+palette = 4=#60067D
+palette = 5=#60067D
+palette = 6=#60067D
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#60067D
+palette = 10=#60067D
+palette = 11=#60067D
+palette = 12=#60067D
+palette = 13=#60067D
+palette = 14=#60067D
+palette = 15=#FFFFFF

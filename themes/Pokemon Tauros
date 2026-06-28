@@ -1,0 +1,27 @@
+# Pokémon Tauros — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6E6852  secondary #3D2914  tertiary #23809D  unibody #EAA763
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EAA763
+foreground = #3D2914
+cursor-color = #3D2914
+cursor-text = #EAA763
+selection-background = #6E6852
+selection-foreground = #3D2914
+
+palette = 0=#23809D
+palette = 1=#3D2914
+palette = 2=#23809D
+palette = 3=#3D2914
+palette = 4=#3D2914
+palette = 5=#3D2914
+palette = 6=#3D2914
+palette = 7=#C7C7C7
+palette = 8=#23809D
+palette = 9=#3D2914
+palette = 10=#3D2914
+palette = 11=#3D2914
+palette = 12=#3D2914
+palette = 13=#3D2914
+palette = 14=#3D2914
+palette = 15=#FFFFFF

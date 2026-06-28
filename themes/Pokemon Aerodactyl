@@ -1,0 +1,27 @@
+# Pokémon Aerodactyl — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #8167AE  secondary #20153B  tertiary #E9E2FF  unibody #A5B2DC
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A5B2DC
+foreground = #20153B
+cursor-color = #20153B
+cursor-text = #A5B2DC
+selection-background = #8167AE
+selection-foreground = #20153B
+
+palette = 0=#E9E2FF
+palette = 1=#20153B
+palette = 2=#E9E2FF
+palette = 3=#20153B
+palette = 4=#20153B
+palette = 5=#20153B
+palette = 6=#20153B
+palette = 7=#C7C7C7
+palette = 8=#E9E2FF
+palette = 9=#20153B
+palette = 10=#20153B
+palette = 11=#20153B
+palette = 12=#20153B
+palette = 13=#20153B
+palette = 14=#20153B
+palette = 15=#FFFFFF

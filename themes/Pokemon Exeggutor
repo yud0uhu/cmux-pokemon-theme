@@ -1,0 +1,27 @@
+# Pokémon Exeggutor — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #56A160  secondary #403B33  tertiary #5BCCA3  unibody #9D927E
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #9D927E
+foreground = #403B33
+cursor-color = #403B33
+cursor-text = #9D927E
+selection-background = #56A160
+selection-foreground = #403B33
+
+palette = 0=#5BCCA3
+palette = 1=#403B33
+palette = 2=#5BCCA3
+palette = 3=#403B33
+palette = 4=#403B33
+palette = 5=#403B33
+palette = 6=#403B33
+palette = 7=#C7C7C7
+palette = 8=#5BCCA3
+palette = 9=#403B33
+palette = 10=#403B33
+palette = 11=#403B33
+palette = 12=#403B33
+palette = 13=#403B33
+palette = 14=#403B33
+palette = 15=#FFFFFF

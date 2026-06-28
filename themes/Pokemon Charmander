@@ -1,0 +1,27 @@
+# Pokémon Charmander — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #96191B  secondary #35261D  tertiary #F6DFD1  unibody #F4B186
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F4B186
+foreground = #35261D
+cursor-color = #35261D
+cursor-text = #F4B186
+selection-background = #96191B
+selection-foreground = #35261D
+
+palette = 0=#F6DFD1
+palette = 1=#35261D
+palette = 2=#F6DFD1
+palette = 3=#35261D
+palette = 4=#35261D
+palette = 5=#35261D
+palette = 6=#35261D
+palette = 7=#C7C7C7
+palette = 8=#F6DFD1
+palette = 9=#35261D
+palette = 10=#35261D
+palette = 11=#35261D
+palette = 12=#35261D
+palette = 13=#35261D
+palette = 14=#35261D
+palette = 15=#FFFFFF

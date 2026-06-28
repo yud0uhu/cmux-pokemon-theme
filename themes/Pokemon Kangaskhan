@@ -1,0 +1,27 @@
+# Pokémon Kangaskhan — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #EFE9AB  secondary #000000  tertiary #D98067  unibody #8D746D
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #8D746D
+foreground = #000000
+cursor-color = #000000
+cursor-text = #8D746D
+selection-background = #EFE9AB
+selection-foreground = #000000
+
+palette = 0=#D98067
+palette = 1=#000000
+palette = 2=#D98067
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#D98067
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

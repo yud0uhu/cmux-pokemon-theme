@@ -1,0 +1,27 @@
+# Pokémon Graveler — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #84847A  secondary #3A3B30  tertiary #8DFFFF  unibody #B4B5A5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B4B5A5
+foreground = #3A3B30
+cursor-color = #3A3B30
+cursor-text = #B4B5A5
+selection-background = #84847A
+selection-foreground = #3A3B30
+
+palette = 0=#8DFFFF
+palette = 1=#3A3B30
+palette = 2=#8DFFFF
+palette = 3=#3A3B30
+palette = 4=#3A3B30
+palette = 5=#3A3B30
+palette = 6=#3A3B30
+palette = 7=#C7C7C7
+palette = 8=#8DFFFF
+palette = 9=#3A3B30
+palette = 10=#3A3B30
+palette = 11=#3A3B30
+palette = 12=#3A3B30
+palette = 13=#3A3B30
+palette = 14=#3A3B30
+palette = 15=#FFFFFF

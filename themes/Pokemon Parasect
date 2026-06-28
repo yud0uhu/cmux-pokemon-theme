@@ -1,0 +1,27 @@
+# Pokémon Parasect — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C77936  secondary #000000  tertiary #5E563E  unibody #D88738
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D88738
+foreground = #000000
+cursor-color = #000000
+cursor-text = #D88738
+selection-background = #C77936
+selection-foreground = #000000
+
+palette = 0=#5E563E
+palette = 1=#000000
+palette = 2=#5E563E
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#5E563E
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Golduck — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #73A4C5  secondary #243240  tertiary #A60060  unibody #7EB1E0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #7EB1E0
+foreground = #243240
+cursor-color = #243240
+cursor-text = #7EB1E0
+selection-background = #73A4C5
+selection-foreground = #243240
+
+palette = 0=#A60060
+palette = 1=#243240
+palette = 2=#A60060
+palette = 3=#243240
+palette = 4=#243240
+palette = 5=#243240
+palette = 6=#243240
+palette = 7=#C7C7C7
+palette = 8=#A60060
+palette = 9=#243240
+palette = 10=#243240
+palette = 11=#243240
+palette = 12=#243240
+palette = 13=#243240
+palette = 14=#243240
+palette = 15=#FFFFFF

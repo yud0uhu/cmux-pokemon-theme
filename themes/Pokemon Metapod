@@ -1,0 +1,27 @@
+# Pokémon Metapod — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #77A052  secondary #230729  tertiary #DDFEAC  unibody #85B243
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #85B243
+foreground = #230729
+cursor-color = #230729
+cursor-text = #85B243
+selection-background = #77A052
+selection-foreground = #230729
+
+palette = 0=#DDFEAC
+palette = 1=#230729
+palette = 2=#DDFEAC
+palette = 3=#230729
+palette = 4=#230729
+palette = 5=#230729
+palette = 6=#230729
+palette = 7=#C7C7C7
+palette = 8=#DDFEAC
+palette = 9=#230729
+palette = 10=#230729
+palette = 11=#230729
+palette = 12=#230729
+palette = 13=#230729
+palette = 14=#230729
+palette = 15=#FFFFFF

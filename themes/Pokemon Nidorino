@@ -1,0 +1,27 @@
+# Pokémon Nidorino — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6AA19E  secondary #3A243E  tertiary #89D7BF  unibody #A47DA9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A47DA9
+foreground = #3A243E
+cursor-color = #3A243E
+cursor-text = #A47DA9
+selection-background = #6AA19E
+selection-foreground = #3A243E
+
+palette = 0=#89D7BF
+palette = 1=#3A243E
+palette = 2=#89D7BF
+palette = 3=#3A243E
+palette = 4=#3A243E
+palette = 5=#3A243E
+palette = 6=#3A243E
+palette = 7=#C7C7C7
+palette = 8=#89D7BF
+palette = 9=#3A243E
+palette = 10=#3A243E
+palette = 11=#3A243E
+palette = 12=#3A243E
+palette = 13=#3A243E
+palette = 14=#3A243E
+palette = 15=#FFFFFF

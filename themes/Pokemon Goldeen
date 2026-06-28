@@ -1,0 +1,27 @@
+# Pokémon Goldeen — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #DE6339  secondary #000000  tertiary #006FB2  unibody #F4F1F8
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F4F1F8
+foreground = #000000
+cursor-color = #000000
+cursor-text = #F4F1F8
+selection-background = #DE6339
+selection-foreground = #000000
+
+palette = 0=#006FB2
+palette = 1=#000000
+palette = 2=#006FB2
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#006FB2
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

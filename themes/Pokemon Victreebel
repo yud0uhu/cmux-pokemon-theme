@@ -1,0 +1,27 @@
+# Pokémon Victreebel — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #88CA8D  secondary #DB8570  tertiary #66916C  unibody #EAEA6E
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EAEA6E
+foreground = #DB8570
+cursor-color = #DB8570
+cursor-text = #EAEA6E
+selection-background = #88CA8D
+selection-foreground = #DB8570
+
+palette = 0=#66916C
+palette = 1=#DB8570
+palette = 2=#66916C
+palette = 3=#DB8570
+palette = 4=#DB8570
+palette = 5=#DB8570
+palette = 6=#DB8570
+palette = 7=#686868
+palette = 8=#66916C
+palette = 9=#DB8570
+palette = 10=#DB8570
+palette = 11=#DB8570
+palette = 12=#DB8570
+palette = 13=#DB8570
+palette = 14=#DB8570
+palette = 15=#000000

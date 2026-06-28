@@ -1,0 +1,27 @@
+# Pokémon Pidgey — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F3EAB7  secondary #0A0A08  tertiary #AC8992  unibody #9E6B35
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #9E6B35
+foreground = #0A0A08
+cursor-color = #0A0A08
+cursor-text = #9E6B35
+selection-background = #F3EAB7
+selection-foreground = #0A0A08
+
+palette = 0=#AC8992
+palette = 1=#0A0A08
+palette = 2=#AC8992
+palette = 3=#0A0A08
+palette = 4=#0A0A08
+palette = 5=#0A0A08
+palette = 6=#0A0A08
+palette = 7=#C7C7C7
+palette = 8=#AC8992
+palette = 9=#0A0A08
+palette = 10=#0A0A08
+palette = 11=#0A0A08
+palette = 12=#0A0A08
+palette = 13=#0A0A08
+palette = 14=#0A0A08
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Golbat — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #82487A  secondary #F5F56E  tertiary #5C421B  unibody #306E93
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #306E93
+foreground = #F5F56E
+cursor-color = #F5F56E
+cursor-text = #306E93
+selection-background = #82487A
+selection-foreground = #F5F56E
+
+palette = 0=#5C421B
+palette = 1=#F5F56E
+palette = 2=#5C421B
+palette = 3=#F5F56E
+palette = 4=#F5F56E
+palette = 5=#F5F56E
+palette = 6=#F5F56E
+palette = 7=#686868
+palette = 8=#5C421B
+palette = 9=#F5F56E
+palette = 10=#F5F56E
+palette = 11=#F5F56E
+palette = 12=#F5F56E
+palette = 13=#F5F56E
+palette = 14=#F5F56E
+palette = 15=#000000

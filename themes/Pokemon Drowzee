@@ -1,0 +1,27 @@
+# Pokémon Drowzee — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #595450  secondary #FFFFFF  tertiary #CB4D4D  unibody #ECC44A
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #ECC44A
+foreground = #FFFFFF
+cursor-color = #FFFFFF
+cursor-text = #ECC44A
+selection-background = #595450
+selection-foreground = #FFFFFF
+
+palette = 0=#CB4D4D
+palette = 1=#FFFFFF
+palette = 2=#CB4D4D
+palette = 3=#FFFFFF
+palette = 4=#FFFFFF
+palette = 5=#FFFFFF
+palette = 6=#FFFFFF
+palette = 7=#686868
+palette = 8=#CB4D4D
+palette = 9=#FFFFFF
+palette = 10=#FFFFFF
+palette = 11=#FFFFFF
+palette = 12=#FFFFFF
+palette = 13=#FFFFFF
+palette = 14=#FFFFFF
+palette = 15=#000000

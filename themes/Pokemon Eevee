@@ -1,0 +1,27 @@
+# Pokémon Eevee — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #603E18  secondary #000000  tertiary #4D3C9E  unibody #C08C5C
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #C08C5C
+foreground = #000000
+cursor-color = #000000
+cursor-text = #C08C5C
+selection-background = #603E18
+selection-foreground = #000000
+
+palette = 0=#4D3C9E
+palette = 1=#000000
+palette = 2=#4D3C9E
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#4D3C9E
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

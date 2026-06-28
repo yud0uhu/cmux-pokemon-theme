@@ -1,0 +1,27 @@
+# Pokémon Wigglytuff — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #226689  secondary #3B262A  tertiary #CC5B6F  unibody #F8B9C4
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F8B9C4
+foreground = #3B262A
+cursor-color = #3B262A
+cursor-text = #F8B9C4
+selection-background = #226689
+selection-foreground = #3B262A
+
+palette = 0=#CC5B6F
+palette = 1=#3B262A
+palette = 2=#CC5B6F
+palette = 3=#3B262A
+palette = 4=#3B262A
+palette = 5=#3B262A
+palette = 6=#3B262A
+palette = 7=#C7C7C7
+palette = 8=#CC5B6F
+palette = 9=#3B262A
+palette = 10=#3B262A
+palette = 11=#3B262A
+palette = 12=#3B262A
+palette = 13=#3B262A
+palette = 14=#3B262A
+palette = 15=#FFFFFF

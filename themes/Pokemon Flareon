@@ -1,0 +1,27 @@
+# Pokémon Flareon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #060709  secondary #6E3921  tertiary #0760A8  unibody #E8813E
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #E8813E
+foreground = #6E3921
+cursor-color = #6E3921
+cursor-text = #E8813E
+selection-background = #060709
+selection-foreground = #6E3921
+
+palette = 0=#0760A8
+palette = 1=#6E3921
+palette = 2=#0760A8
+palette = 3=#6E3921
+palette = 4=#6E3921
+palette = 5=#6E3921
+palette = 6=#6E3921
+palette = 7=#C7C7C7
+palette = 8=#0760A8
+palette = 9=#6E3921
+palette = 10=#6E3921
+palette = 11=#6E3921
+palette = 12=#6E3921
+palette = 13=#6E3921
+palette = 14=#6E3921
+palette = 15=#FFFFFF

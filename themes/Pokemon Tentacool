@@ -1,0 +1,27 @@
+# Pokémon Tentacool — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #9B233E  secondary #102029  tertiary #991E82  unibody #6EB5DF
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #6EB5DF
+foreground = #102029
+cursor-color = #102029
+cursor-text = #6EB5DF
+selection-background = #9B233E
+selection-foreground = #102029
+
+palette = 0=#991E82
+palette = 1=#102029
+palette = 2=#991E82
+palette = 3=#102029
+palette = 4=#102029
+palette = 5=#102029
+palette = 6=#102029
+palette = 7=#C7C7C7
+palette = 8=#991E82
+palette = 9=#102029
+palette = 10=#102029
+palette = 11=#102029
+palette = 12=#102029
+palette = 13=#102029
+palette = 14=#102029
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Dewgong — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #BFC1D6  secondary #282B32  tertiary #FF6482  unibody #D6DCEA
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D6DCEA
+foreground = #282B32
+cursor-color = #282B32
+cursor-text = #D6DCEA
+selection-background = #BFC1D6
+selection-foreground = #282B32
+
+palette = 0=#FF6482
+palette = 1=#282B32
+palette = 2=#FF6482
+palette = 3=#282B32
+palette = 4=#282B32
+palette = 5=#282B32
+palette = 6=#282B32
+palette = 7=#C7C7C7
+palette = 8=#FF6482
+palette = 9=#282B32
+palette = 10=#282B32
+palette = 11=#282B32
+palette = 12=#282B32
+palette = 13=#282B32
+palette = 14=#282B32
+palette = 15=#FFFFFF

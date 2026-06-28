@@ -1,0 +1,27 @@
+# Pokémon Exeggcute — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D0B5BB  secondary #4F6666  tertiary #0CA8A8  unibody #F6D6D9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F6D6D9
+foreground = #4F6666
+cursor-color = #4F6666
+cursor-text = #F6D6D9
+selection-background = #D0B5BB
+selection-foreground = #4F6666
+
+palette = 0=#0CA8A8
+palette = 1=#4F6666
+palette = 2=#0CA8A8
+palette = 3=#4F6666
+palette = 4=#4F6666
+palette = 5=#4F6666
+palette = 6=#4F6666
+palette = 7=#C7C7C7
+palette = 8=#0CA8A8
+palette = 9=#4F6666
+palette = 10=#4F6666
+palette = 11=#4F6666
+palette = 12=#4F6666
+palette = 13=#4F6666
+palette = 14=#4F6666
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Rhyhorn — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #958F99  secondary #3C393E  tertiary #FF7700  unibody #B6ADBE
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B6ADBE
+foreground = #3C393E
+cursor-color = #3C393E
+cursor-text = #B6ADBE
+selection-background = #958F99
+selection-foreground = #3C393E
+
+palette = 0=#FF7700
+palette = 1=#3C393E
+palette = 2=#FF7700
+palette = 3=#3C393E
+palette = 4=#3C393E
+palette = 5=#3C393E
+palette = 6=#3C393E
+palette = 7=#C7C7C7
+palette = 8=#FF7700
+palette = 9=#3C393E
+palette = 10=#3C393E
+palette = 11=#3C393E
+palette = 12=#3C393E
+palette = 13=#3C393E
+palette = 14=#3C393E
+palette = 15=#FFFFFF

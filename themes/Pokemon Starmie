@@ -1,0 +1,27 @@
+# Pokémon Starmie — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #8B869A  secondary #131117  tertiary #FFFFFF  unibody #A297B7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A297B7
+foreground = #131117
+cursor-color = #131117
+cursor-text = #A297B7
+selection-background = #8B869A
+selection-foreground = #131117
+
+palette = 0=#FFFFFF
+palette = 1=#131117
+palette = 2=#FFFFFF
+palette = 3=#131117
+palette = 4=#131117
+palette = 5=#131117
+palette = 6=#131117
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#131117
+palette = 10=#131117
+palette = 11=#131117
+palette = 12=#131117
+palette = 13=#131117
+palette = 14=#131117
+palette = 15=#FFFFFF

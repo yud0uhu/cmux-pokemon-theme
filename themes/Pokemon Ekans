@@ -1,0 +1,27 @@
+# Pokémon Ekans — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F9E994  secondary #342136  tertiary #DAB5DD  unibody #8D6891
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #8D6891
+foreground = #342136
+cursor-color = #342136
+cursor-text = #8D6891
+selection-background = #F9E994
+selection-foreground = #342136
+
+palette = 0=#DAB5DD
+palette = 1=#342136
+palette = 2=#DAB5DD
+palette = 3=#342136
+palette = 4=#342136
+palette = 5=#342136
+palette = 6=#342136
+palette = 7=#C7C7C7
+palette = 8=#DAB5DD
+palette = 9=#342136
+palette = 10=#342136
+palette = 11=#342136
+palette = 12=#342136
+palette = 13=#342136
+palette = 14=#342136
+palette = 15=#FFFFFF

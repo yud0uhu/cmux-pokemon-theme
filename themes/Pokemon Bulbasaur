@@ -1,0 +1,27 @@
+# Pokémon Bulbasaur — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #5B9C71  secondary #0F2C33  tertiary #F8DEA0  unibody #77AC98
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #77AC98
+foreground = #0F2C33
+cursor-color = #0F2C33
+cursor-text = #77AC98
+selection-background = #5B9C71
+selection-foreground = #0F2C33
+
+palette = 0=#F8DEA0
+palette = 1=#0F2C33
+palette = 2=#F8DEA0
+palette = 3=#0F2C33
+palette = 4=#0F2C33
+palette = 5=#0F2C33
+palette = 6=#0F2C33
+palette = 7=#C7C7C7
+palette = 8=#F8DEA0
+palette = 9=#0F2C33
+palette = 10=#0F2C33
+palette = 11=#0F2C33
+palette = 12=#0F2C33
+palette = 13=#0F2C33
+palette = 14=#0F2C33
+palette = 15=#FFFFFF

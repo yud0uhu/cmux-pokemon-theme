@@ -1,0 +1,27 @@
+# Pokémon Kingler — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D06628  secondary #306573  tertiary #43B28F  unibody #F2E0CA
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F2E0CA
+foreground = #306573
+cursor-color = #306573
+cursor-text = #F2E0CA
+selection-background = #D06628
+selection-foreground = #306573
+
+palette = 0=#43B28F
+palette = 1=#306573
+palette = 2=#43B28F
+palette = 3=#306573
+palette = 4=#306573
+palette = 5=#306573
+palette = 6=#306573
+palette = 7=#C7C7C7
+palette = 8=#43B28F
+palette = 9=#306573
+palette = 10=#306573
+palette = 11=#306573
+palette = 12=#306573
+palette = 13=#306573
+palette = 14=#306573
+palette = 15=#FFFFFF

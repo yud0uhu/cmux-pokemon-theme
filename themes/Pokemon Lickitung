@@ -1,0 +1,27 @@
+# Pokémon Lickitung — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E4B9CA  secondary #693F45  tertiary #589196  unibody #EBA5B0
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EBA5B0
+foreground = #693F45
+cursor-color = #693F45
+cursor-text = #EBA5B0
+selection-background = #E4B9CA
+selection-foreground = #693F45
+
+palette = 0=#589196
+palette = 1=#693F45
+palette = 2=#589196
+palette = 3=#693F45
+palette = 4=#693F45
+palette = 5=#693F45
+palette = 6=#693F45
+palette = 7=#C7C7C7
+palette = 8=#589196
+palette = 9=#693F45
+palette = 10=#693F45
+palette = 11=#693F45
+palette = 12=#693F45
+palette = 13=#693F45
+palette = 14=#693F45
+palette = 15=#FFFFFF

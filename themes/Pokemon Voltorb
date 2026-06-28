@@ -1,0 +1,27 @@
+# Pokémon Voltorb — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #000000  secondary #000000  tertiary #BAB608  unibody #ED2225
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #ED2225
+foreground = #000000
+cursor-color = #000000
+cursor-text = #ED2225
+selection-background = #000000
+selection-foreground = #000000
+
+palette = 0=#BAB608
+palette = 1=#000000
+palette = 2=#BAB608
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#BAB608
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

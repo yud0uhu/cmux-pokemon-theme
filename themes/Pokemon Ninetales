@@ -1,0 +1,27 @@
+# Pokémon Ninetales — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #DDCA6B  secondary #737358  tertiary #AA7BD9  unibody #F2F3BA
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F2F3BA
+foreground = #737358
+cursor-color = #737358
+cursor-text = #F2F3BA
+selection-background = #DDCA6B
+selection-foreground = #737358
+
+palette = 0=#AA7BD9
+palette = 1=#737358
+palette = 2=#AA7BD9
+palette = 3=#737358
+palette = 4=#737358
+palette = 5=#737358
+palette = 6=#737358
+palette = 7=#C7C7C7
+palette = 8=#AA7BD9
+palette = 9=#737358
+palette = 10=#737358
+palette = 11=#737358
+palette = 12=#737358
+palette = 13=#737358
+palette = 14=#737358
+palette = 15=#FFFFFF

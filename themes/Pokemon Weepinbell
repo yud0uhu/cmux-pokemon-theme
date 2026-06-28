@@ -1,0 +1,27 @@
+# Pokémon Weepinbell — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #79B47C  secondary #786548  tertiary #0078FC  unibody #EBEB73
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EBEB73
+foreground = #786548
+cursor-color = #786548
+cursor-text = #EBEB73
+selection-background = #79B47C
+selection-foreground = #786548
+
+palette = 0=#0078FC
+palette = 1=#786548
+palette = 2=#0078FC
+palette = 3=#786548
+palette = 4=#786548
+palette = 5=#786548
+palette = 6=#786548
+palette = 7=#C7C7C7
+palette = 8=#0078FC
+palette = 9=#786548
+palette = 10=#786548
+palette = 11=#786548
+palette = 12=#786548
+palette = 13=#786548
+palette = 14=#786548
+palette = 15=#FFFFFF

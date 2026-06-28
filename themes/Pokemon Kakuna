@@ -1,0 +1,27 @@
+# Pokémon Kakuna — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F4E089  secondary #292722  tertiary #A547A5  unibody #D8C173
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D8C173
+foreground = #292722
+cursor-color = #292722
+cursor-text = #D8C173
+selection-background = #F4E089
+selection-foreground = #292722
+
+palette = 0=#A547A5
+palette = 1=#292722
+palette = 2=#A547A5
+palette = 3=#292722
+palette = 4=#292722
+palette = 5=#292722
+palette = 6=#292722
+palette = 7=#C7C7C7
+palette = 8=#A547A5
+palette = 9=#292722
+palette = 10=#292722
+palette = 11=#292722
+palette = 12=#292722
+palette = 13=#292722
+palette = 14=#292722
+palette = 15=#FFFFFF

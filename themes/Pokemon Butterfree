@@ -1,0 +1,27 @@
+# Pokémon Butterfree — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #7FBBC5  secondary #262330  tertiary #F4D89A  unibody #978DC1
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #978DC1
+foreground = #262330
+cursor-color = #262330
+cursor-text = #978DC1
+selection-background = #7FBBC5
+selection-foreground = #262330
+
+palette = 0=#F4D89A
+palette = 1=#262330
+palette = 2=#F4D89A
+palette = 3=#262330
+palette = 4=#262330
+palette = 5=#262330
+palette = 6=#262330
+palette = 7=#C7C7C7
+palette = 8=#F4D89A
+palette = 9=#262330
+palette = 10=#262330
+palette = 11=#262330
+palette = 12=#262330
+palette = 13=#262330
+palette = 14=#262330
+palette = 15=#FFFFFF

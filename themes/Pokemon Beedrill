@@ -1,0 +1,27 @@
+# Pokémon Beedrill — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #656281  secondary #302910  tertiary #3680A8  unibody #EDCE64
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #EDCE64
+foreground = #302910
+cursor-color = #302910
+cursor-text = #EDCE64
+selection-background = #656281
+selection-foreground = #302910
+
+palette = 0=#3680A8
+palette = 1=#302910
+palette = 2=#3680A8
+palette = 3=#302910
+palette = 4=#302910
+palette = 5=#302910
+palette = 6=#302910
+palette = 7=#C7C7C7
+palette = 8=#3680A8
+palette = 9=#302910
+palette = 10=#302910
+palette = 11=#302910
+palette = 12=#302910
+palette = 13=#302910
+palette = 14=#302910
+palette = 15=#FFFFFF

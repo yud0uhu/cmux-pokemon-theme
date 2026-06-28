@@ -1,0 +1,27 @@
+# Pokémon Nidoran-female — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #494989  secondary #2B1E47  tertiary #BE00E6  unibody #BEC7E6
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #BEC7E6
+foreground = #2B1E47
+cursor-color = #2B1E47
+cursor-text = #BEC7E6
+selection-background = #494989
+selection-foreground = #2B1E47
+
+palette = 0=#BE00E6
+palette = 1=#2B1E47
+palette = 2=#BE00E6
+palette = 3=#2B1E47
+palette = 4=#2B1E47
+palette = 5=#2B1E47
+palette = 6=#2B1E47
+palette = 7=#C7C7C7
+palette = 8=#BE00E6
+palette = 9=#2B1E47
+palette = 10=#2B1E47
+palette = 11=#2B1E47
+palette = 12=#2B1E47
+palette = 13=#2B1E47
+palette = 14=#2B1E47
+palette = 15=#FFFFFF

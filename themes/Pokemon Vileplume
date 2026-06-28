@@ -1,0 +1,27 @@
+# Pokémon Vileplume — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #D56C7D  secondary #FFFFEB  tertiary #332424  unibody #485683
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #485683
+foreground = #FFFFEB
+cursor-color = #FFFFEB
+cursor-text = #485683
+selection-background = #D56C7D
+selection-foreground = #FFFFEB
+
+palette = 0=#332424
+palette = 1=#FFFFEB
+palette = 2=#332424
+palette = 3=#FFFFEB
+palette = 4=#FFFFEB
+palette = 5=#FFFFEB
+palette = 6=#FFFFEB
+palette = 7=#686868
+palette = 8=#332424
+palette = 9=#FFFFEB
+palette = 10=#FFFFEB
+palette = 11=#FFFFEB
+palette = 12=#FFFFEB
+palette = 13=#FFFFEB
+palette = 14=#FFFFEB
+palette = 15=#000000

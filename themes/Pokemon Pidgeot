@@ -1,0 +1,27 @@
+# Pokémon Pidgeot — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #A48554  secondary #C25046  tertiary #A48554  unibody #F2EAB7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #F2EAB7
+foreground = #C25046
+cursor-color = #C25046
+cursor-text = #F2EAB7
+selection-background = #A48554
+selection-foreground = #C25046
+
+palette = 0=#A48554
+palette = 1=#C25046
+palette = 2=#A48554
+palette = 3=#C25046
+palette = 4=#C25046
+palette = 5=#C25046
+palette = 6=#C25046
+palette = 7=#C7C7C7
+palette = 8=#A48554
+palette = 9=#C25046
+palette = 10=#C25046
+palette = 11=#C25046
+palette = 12=#C25046
+palette = 13=#C25046
+palette = 14=#C25046
+palette = 15=#FFFFFF

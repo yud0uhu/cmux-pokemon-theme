@@ -1,0 +1,27 @@
+# Pokémon Fearow — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #DC6859  secondary #301515  tertiary #E5C0C0  unibody #AD7542
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #AD7542
+foreground = #301515
+cursor-color = #301515
+cursor-text = #AD7542
+selection-background = #DC6859
+selection-foreground = #301515
+
+palette = 0=#E5C0C0
+palette = 1=#301515
+palette = 2=#E5C0C0
+palette = 3=#301515
+palette = 4=#301515
+palette = 5=#301515
+palette = 6=#301515
+palette = 7=#C7C7C7
+palette = 8=#E5C0C0
+palette = 9=#301515
+palette = 10=#301515
+palette = 11=#301515
+palette = 12=#301515
+palette = 13=#301515
+palette = 14=#301515
+palette = 15=#FFFFFF

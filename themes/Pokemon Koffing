@@ -1,0 +1,27 @@
+# Pokémon Koffing — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #726487  secondary #472F6B  tertiary #BA517F  unibody #A793C6
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A793C6
+foreground = #472F6B
+cursor-color = #472F6B
+cursor-text = #A793C6
+selection-background = #726487
+selection-foreground = #472F6B
+
+palette = 0=#BA517F
+palette = 1=#472F6B
+palette = 2=#BA517F
+palette = 3=#472F6B
+palette = 4=#472F6B
+palette = 5=#472F6B
+palette = 6=#472F6B
+palette = 7=#C7C7C7
+palette = 8=#BA517F
+palette = 9=#472F6B
+palette = 10=#472F6B
+palette = 11=#472F6B
+palette = 12=#472F6B
+palette = 13=#472F6B
+palette = 14=#472F6B
+palette = 15=#FFFFFF

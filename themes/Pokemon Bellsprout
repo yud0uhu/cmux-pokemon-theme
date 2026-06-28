@@ -1,0 +1,27 @@
+# Pokémon Bellsprout — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #93CF9C  secondary #1F1E0C  tertiary #0078FC  unibody #DEDA6C
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #DEDA6C
+foreground = #1F1E0C
+cursor-color = #1F1E0C
+cursor-text = #DEDA6C
+selection-background = #93CF9C
+selection-foreground = #1F1E0C
+
+palette = 0=#0078FC
+palette = 1=#1F1E0C
+palette = 2=#0078FC
+palette = 3=#1F1E0C
+palette = 4=#1F1E0C
+palette = 5=#1F1E0C
+palette = 6=#1F1E0C
+palette = 7=#C7C7C7
+palette = 8=#0078FC
+palette = 9=#1F1E0C
+palette = 10=#1F1E0C
+palette = 11=#1F1E0C
+palette = 12=#1F1E0C
+palette = 13=#1F1E0C
+palette = 14=#1F1E0C
+palette = 15=#FFFFFF

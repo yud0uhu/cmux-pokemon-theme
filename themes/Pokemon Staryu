@@ -1,0 +1,27 @@
+# Pokémon Staryu — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #9E7438  secondary #2B1F0A  tertiary #FFFFFF  unibody #B1853C
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #B1853C
+foreground = #2B1F0A
+cursor-color = #2B1F0A
+cursor-text = #B1853C
+selection-background = #9E7438
+selection-foreground = #2B1F0A
+
+palette = 0=#FFFFFF
+palette = 1=#2B1F0A
+palette = 2=#FFFFFF
+palette = 3=#2B1F0A
+palette = 4=#2B1F0A
+palette = 5=#2B1F0A
+palette = 6=#2B1F0A
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#2B1F0A
+palette = 10=#2B1F0A
+palette = 11=#2B1F0A
+palette = 12=#2B1F0A
+palette = 13=#2B1F0A
+palette = 14=#2B1F0A
+palette = 15=#FFFFFF

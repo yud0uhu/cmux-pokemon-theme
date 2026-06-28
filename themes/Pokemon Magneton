@@ -1,0 +1,27 @@
+# Pokémon Magneton — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #91918F  secondary #1A2342  tertiary #B5249A  unibody #A3BEC7
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A3BEC7
+foreground = #1A2342
+cursor-color = #1A2342
+cursor-text = #A3BEC7
+selection-background = #91918F
+selection-foreground = #1A2342
+
+palette = 0=#B5249A
+palette = 1=#1A2342
+palette = 2=#B5249A
+palette = 3=#1A2342
+palette = 4=#1A2342
+palette = 5=#1A2342
+palette = 6=#1A2342
+palette = 7=#C7C7C7
+palette = 8=#B5249A
+palette = 9=#1A2342
+palette = 10=#1A2342
+palette = 11=#1A2342
+palette = 12=#1A2342
+palette = 13=#1A2342
+palette = 14=#1A2342
+palette = 15=#FFFFFF

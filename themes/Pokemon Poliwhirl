@@ -1,0 +1,27 @@
+# Pokémon Poliwhirl — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E0E4EF  secondary #060329  tertiary #94C6FF  unibody #5C86B8
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #5C86B8
+foreground = #060329
+cursor-color = #060329
+cursor-text = #5C86B8
+selection-background = #E0E4EF
+selection-foreground = #060329
+
+palette = 0=#94C6FF
+palette = 1=#060329
+palette = 2=#94C6FF
+palette = 3=#060329
+palette = 4=#060329
+palette = 5=#060329
+palette = 6=#060329
+palette = 7=#C7C7C7
+palette = 8=#94C6FF
+palette = 9=#060329
+palette = 10=#060329
+palette = 11=#060329
+palette = 12=#060329
+palette = 13=#060329
+palette = 14=#060329
+palette = 15=#FFFFFF

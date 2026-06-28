@@ -1,0 +1,27 @@
+# Pokémon Rattata — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #453444  secondary #F6F0F6  tertiary #050405  unibody #A662A4
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A662A4
+foreground = #F6F0F6
+cursor-color = #F6F0F6
+cursor-text = #A662A4
+selection-background = #453444
+selection-foreground = #F6F0F6
+
+palette = 0=#050405
+palette = 1=#F6F0F6
+palette = 2=#050405
+palette = 3=#F6F0F6
+palette = 4=#F6F0F6
+palette = 5=#F6F0F6
+palette = 6=#F6F0F6
+palette = 7=#686868
+palette = 8=#050405
+palette = 9=#F6F0F6
+palette = 10=#F6F0F6
+palette = 11=#F6F0F6
+palette = 12=#F6F0F6
+palette = 13=#F6F0F6
+palette = 14=#F6F0F6
+palette = 15=#000000

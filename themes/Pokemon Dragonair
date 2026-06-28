@@ -1,0 +1,27 @@
+# Pokémon Dragonair — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #5577BB  secondary #E8F0F4  tertiary #D9D9D9  unibody #77A2D5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #77A2D5
+foreground = #E8F0F4
+cursor-color = #E8F0F4
+cursor-text = #77A2D5
+selection-background = #5577BB
+selection-foreground = #E8F0F4
+
+palette = 0=#D9D9D9
+palette = 1=#E8F0F4
+palette = 2=#D9D9D9
+palette = 3=#E8F0F4
+palette = 4=#E8F0F4
+palette = 5=#E8F0F4
+palette = 6=#E8F0F4
+palette = 7=#686868
+palette = 8=#D9D9D9
+palette = 9=#E8F0F4
+palette = 10=#E8F0F4
+palette = 11=#E8F0F4
+palette = 12=#E8F0F4
+palette = 13=#E8F0F4
+palette = 14=#E8F0F4
+palette = 15=#000000

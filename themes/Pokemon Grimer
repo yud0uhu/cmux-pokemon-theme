@@ -1,0 +1,27 @@
+# Pokémon Grimer — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #6E5F80  secondary #2F2533  tertiary #B8A785  unibody #8D7B95
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #8D7B95
+foreground = #2F2533
+cursor-color = #2F2533
+cursor-text = #8D7B95
+selection-background = #6E5F80
+selection-foreground = #2F2533
+
+palette = 0=#B8A785
+palette = 1=#2F2533
+palette = 2=#B8A785
+palette = 3=#2F2533
+palette = 4=#2F2533
+palette = 5=#2F2533
+palette = 6=#2F2533
+palette = 7=#C7C7C7
+palette = 8=#B8A785
+palette = 9=#2F2533
+palette = 10=#2F2533
+palette = 11=#2F2533
+palette = 12=#2F2533
+palette = 13=#2F2533
+palette = 14=#2F2533
+palette = 15=#FFFFFF

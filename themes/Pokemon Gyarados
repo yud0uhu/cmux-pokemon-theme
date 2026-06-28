@@ -1,0 +1,27 @@
+# Pokémon Gyarados — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #2E7090  secondary #113F58  tertiary #B2454B  unibody #307BA5
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #307BA5
+foreground = #113F58
+cursor-color = #113F58
+cursor-text = #307BA5
+selection-background = #2E7090
+selection-foreground = #113F58
+
+palette = 0=#B2454B
+palette = 1=#113F58
+palette = 2=#B2454B
+palette = 3=#113F58
+palette = 4=#113F58
+palette = 5=#113F58
+palette = 6=#113F58
+palette = 7=#C7C7C7
+palette = 8=#B2454B
+palette = 9=#113F58
+palette = 10=#113F58
+palette = 11=#113F58
+palette = 12=#113F58
+palette = 13=#113F58
+palette = 14=#113F58
+palette = 15=#FFFFFF

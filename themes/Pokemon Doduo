@@ -1,0 +1,27 @@
+# Pokémon Doduo — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #45464A  secondary #FFFFFF  tertiary #006AD4  unibody #CB9573
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #CB9573
+foreground = #FFFFFF
+cursor-color = #FFFFFF
+cursor-text = #CB9573
+selection-background = #45464A
+selection-foreground = #FFFFFF
+
+palette = 0=#006AD4
+palette = 1=#FFFFFF
+palette = 2=#006AD4
+palette = 3=#FFFFFF
+palette = 4=#FFFFFF
+palette = 5=#FFFFFF
+palette = 6=#FFFFFF
+palette = 7=#686868
+palette = 8=#006AD4
+palette = 9=#FFFFFF
+palette = 10=#FFFFFF
+palette = 11=#FFFFFF
+palette = 12=#FFFFFF
+palette = 13=#FFFFFF
+palette = 14=#FFFFFF
+palette = 15=#000000

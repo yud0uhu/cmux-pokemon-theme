@@ -1,0 +1,27 @@
+# Pokémon Jigglypuff — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #279C9A  secondary #1873C5  tertiary #279C94  unibody #FAC7D6
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #FAC7D6
+foreground = #1873C5
+cursor-color = #1873C5
+cursor-text = #FAC7D6
+selection-background = #279C9A
+selection-foreground = #1873C5
+
+palette = 0=#279C94
+palette = 1=#1873C5
+palette = 2=#279C94
+palette = 3=#1873C5
+palette = 4=#1873C5
+palette = 5=#1873C5
+palette = 6=#1873C5
+palette = 7=#C7C7C7
+palette = 8=#279C94
+palette = 9=#1873C5
+palette = 10=#1873C5
+palette = 11=#1873C5
+palette = 12=#1873C5
+palette = 13=#1873C5
+palette = 14=#1873C5
+palette = 15=#FFFFFF

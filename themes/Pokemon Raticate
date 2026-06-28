@@ -1,0 +1,27 @@
+# Pokémon Raticate — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #A28091  secondary #2E2300  tertiary #21C8D8  unibody #CB9652
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #CB9652
+foreground = #2E2300
+cursor-color = #2E2300
+cursor-text = #CB9652
+selection-background = #A28091
+selection-foreground = #2E2300
+
+palette = 0=#21C8D8
+palette = 1=#2E2300
+palette = 2=#21C8D8
+palette = 3=#2E2300
+palette = 4=#2E2300
+palette = 5=#2E2300
+palette = 6=#2E2300
+palette = 7=#C7C7C7
+palette = 8=#21C8D8
+palette = 9=#2E2300
+palette = 10=#2E2300
+palette = 11=#2E2300
+palette = 12=#2E2300
+palette = 13=#2E2300
+palette = 14=#2E2300
+palette = 15=#FFFFFF

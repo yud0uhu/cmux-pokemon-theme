@@ -1,0 +1,27 @@
+# Pokémon Cubone — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #000000  secondary #000000  tertiary #084CBD  unibody #E0AA3D
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #E0AA3D
+foreground = #000000
+cursor-color = #000000
+cursor-text = #E0AA3D
+selection-background = #000000
+selection-foreground = #000000
+
+palette = 0=#084CBD
+palette = 1=#000000
+palette = 2=#084CBD
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#084CBD
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

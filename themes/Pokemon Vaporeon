@@ -1,0 +1,27 @@
+# Pokémon Vaporeon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #2B536D  secondary #0A1114  tertiary #CC7A86  unibody #7FC2DC
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #7FC2DC
+foreground = #0A1114
+cursor-color = #0A1114
+cursor-text = #7FC2DC
+selection-background = #2B536D
+selection-foreground = #0A1114
+
+palette = 0=#CC7A86
+palette = 1=#0A1114
+palette = 2=#CC7A86
+palette = 3=#0A1114
+palette = 4=#0A1114
+palette = 5=#0A1114
+palette = 6=#0A1114
+palette = 7=#C7C7C7
+palette = 8=#CC7A86
+palette = 9=#0A1114
+palette = 10=#0A1114
+palette = 11=#0A1114
+palette = 12=#0A1114
+palette = 13=#0A1114
+palette = 14=#0A1114
+palette = 15=#FFFFFF

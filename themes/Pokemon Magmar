@@ -1,0 +1,27 @@
+# Pokémon Magmar — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #F9DC64  secondary #07050F  tertiary #003985  unibody #D84E27
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D84E27
+foreground = #07050F
+cursor-color = #07050F
+cursor-text = #D84E27
+selection-background = #F9DC64
+selection-foreground = #07050F
+
+palette = 0=#003985
+palette = 1=#07050F
+palette = 2=#003985
+palette = 3=#07050F
+palette = 4=#07050F
+palette = 5=#07050F
+palette = 6=#07050F
+palette = 7=#C7C7C7
+palette = 8=#003985
+palette = 9=#07050F
+palette = 10=#07050F
+palette = 11=#07050F
+palette = 12=#07050F
+palette = 13=#07050F
+palette = 14=#07050F
+palette = 15=#FFFFFF

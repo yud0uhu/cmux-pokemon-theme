@@ -1,0 +1,27 @@
+# Pokémon Charmeleon — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #BE5B55  secondary #532924  tertiary #EAD3D1  unibody #D3675A
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #D3675A
+foreground = #532924
+cursor-color = #532924
+cursor-text = #D3675A
+selection-background = #BE5B55
+selection-foreground = #532924
+
+palette = 0=#EAD3D1
+palette = 1=#532924
+palette = 2=#EAD3D1
+palette = 3=#532924
+palette = 4=#532924
+palette = 5=#532924
+palette = 6=#532924
+palette = 7=#C7C7C7
+palette = 8=#EAD3D1
+palette = 9=#532924
+palette = 10=#532924
+palette = 11=#532924
+palette = 12=#532924
+palette = 13=#532924
+palette = 14=#532924
+palette = 15=#FFFFFF

@@ -1,0 +1,27 @@
+# Pokémon Arbok — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #3A3839  secondary #F5F5F5  tertiary #BB4477  unibody #A7A1BD
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A7A1BD
+foreground = #F5F5F5
+cursor-color = #F5F5F5
+cursor-text = #A7A1BD
+selection-background = #3A3839
+selection-foreground = #F5F5F5
+
+palette = 0=#BB4477
+palette = 1=#F5F5F5
+palette = 2=#BB4477
+palette = 3=#F5F5F5
+palette = 4=#F5F5F5
+palette = 5=#F5F5F5
+palette = 6=#F5F5F5
+palette = 7=#686868
+palette = 8=#BB4477
+palette = 9=#F5F5F5
+palette = 10=#F5F5F5
+palette = 11=#F5F5F5
+palette = 12=#F5F5F5
+palette = 13=#F5F5F5
+palette = 14=#F5F5F5
+palette = 15=#000000

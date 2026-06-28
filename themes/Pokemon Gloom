@@ -1,0 +1,27 @@
+# Pokémon Gloom — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #A04041  secondary #000000  tertiary #FFFFFF  unibody #7796CD
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #7796CD
+foreground = #000000
+cursor-color = #000000
+cursor-text = #7796CD
+selection-background = #A04041
+selection-foreground = #000000
+
+palette = 0=#FFFFFF
+palette = 1=#000000
+palette = 2=#FFFFFF
+palette = 3=#000000
+palette = 4=#000000
+palette = 5=#000000
+palette = 6=#000000
+palette = 7=#C7C7C7
+palette = 8=#FFFFFF
+palette = 9=#000000
+palette = 10=#000000
+palette = 11=#000000
+palette = 12=#000000
+palette = 13=#000000
+palette = 14=#000000
+palette = 15=#FFFFFF

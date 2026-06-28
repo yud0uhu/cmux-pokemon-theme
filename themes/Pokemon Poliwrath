@@ -1,0 +1,27 @@
+# Pokémon Poliwrath — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #E4EDF6  secondary #060329  tertiary #94C6FF  unibody #5B86B9
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #5B86B9
+foreground = #060329
+cursor-color = #060329
+cursor-text = #5B86B9
+selection-background = #E4EDF6
+selection-foreground = #060329
+
+palette = 0=#94C6FF
+palette = 1=#060329
+palette = 2=#94C6FF
+palette = 3=#060329
+palette = 4=#060329
+palette = 5=#060329
+palette = 6=#060329
+palette = 7=#C7C7C7
+palette = 8=#94C6FF
+palette = 9=#060329
+palette = 10=#060329
+palette = 11=#060329
+palette = 12=#060329
+palette = 13=#060329
+palette = 14=#060329
+palette = 15=#FFFFFF

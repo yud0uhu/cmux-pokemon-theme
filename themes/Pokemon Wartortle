@@ -1,0 +1,27 @@
+# Pokémon Wartortle — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #C8E8F5  secondary #2D333D  tertiary #AF8C71  unibody #A8BDE2
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #A8BDE2
+foreground = #2D333D
+cursor-color = #2D333D
+cursor-text = #A8BDE2
+selection-background = #C8E8F5
+selection-foreground = #2D333D
+
+palette = 0=#AF8C71
+palette = 1=#2D333D
+palette = 2=#AF8C71
+palette = 3=#2D333D
+palette = 4=#2D333D
+palette = 5=#2D333D
+palette = 6=#2D333D
+palette = 7=#C7C7C7
+palette = 8=#AF8C71
+palette = 9=#2D333D
+palette = 10=#2D333D
+palette = 11=#2D333D
+palette = 12=#2D333D
+palette = 13=#2D333D
+palette = 14=#2D333D
+palette = 15=#FFFFFF

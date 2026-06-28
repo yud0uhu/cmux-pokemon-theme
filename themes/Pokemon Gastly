@@ -1,0 +1,27 @@
+# Pokémon Gastly — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #0C0D22  secondary #7A0046  tertiary #FFBC00  unibody #7D6EB3
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #7D6EB3
+foreground = #7A0046
+cursor-color = #7A0046
+cursor-text = #7D6EB3
+selection-background = #0C0D22
+selection-foreground = #7A0046
+
+palette = 0=#FFBC00
+palette = 1=#7A0046
+palette = 2=#FFBC00
+palette = 3=#7A0046
+palette = 4=#7A0046
+palette = 5=#7A0046
+palette = 6=#7A0046
+palette = 7=#C7C7C7
+palette = 8=#FFBC00
+palette = 9=#7A0046
+palette = 10=#7A0046
+palette = 11=#7A0046
+palette = 12=#7A0046
+palette = 13=#7A0046
+palette = 14=#7A0046
+palette = 15=#FFFFFF

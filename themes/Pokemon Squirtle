@@ -1,0 +1,27 @@
+# Pokémon Squirtle — ported from hyper-pokemon (klaussinani/hyper-pokemon)
+# Source colors: primary #916A5B  secondary #832900  tertiary #B4E6EE  unibody #84C1D4
+# Mapping mirrors hyper-pokemon/index.js decorateConfig().
+
+background = #84C1D4
+foreground = #832900
+cursor-color = #832900
+cursor-text = #84C1D4
+selection-background = #916A5B
+selection-foreground = #832900
+
+palette = 0=#B4E6EE
+palette = 1=#832900
+palette = 2=#B4E6EE
+palette = 3=#832900
+palette = 4=#832900
+palette = 5=#832900
+palette = 6=#832900
+palette = 7=#C7C7C7
+palette = 8=#B4E6EE
+palette = 9=#832900
+palette = 10=#832900
+palette = 11=#832900
+palette = 12=#832900
+palette = 13=#832900
+palette = 14=#832900
+palette = 15=#FFFFFF
