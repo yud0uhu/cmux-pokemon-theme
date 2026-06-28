@@ -1,5 +1,10 @@
 # cmux-pokemon-theme
 
+<img width="2032" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f23a070-2efe-4f9e-9fa1-a598ff5ccadd" />
+
+<img width="2032" height="1079" alt="image" src="https://github.com/user-attachments/assets/fab54cfa-bb4b-4e9a-af48-45c0aabad379" />
+
+
 [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon)（Hyper ターミナル用の Pokémon テーマ）を、[cmux](https://github.com/manaflow-ai/cmux) のターミナル（[Ghostty](https://ghostty.org) バックエンド）向けに移植したものです。
 
 **全 153 種**のポケモンテーマ（カラー + 全画面の背景画像）を収録しています。テーマ名は `Pokemon <名前>` 形式（例: `Pokemon Pikachu`, `Pokemon Jolteon`, `Pokemon Charizard`）。利用可能な一覧は `ghostty +list-themes` でも確認できます。
